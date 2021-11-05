@@ -54,7 +54,7 @@ social:
   link: https://github.com/gcushen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "Denchyaknow@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
