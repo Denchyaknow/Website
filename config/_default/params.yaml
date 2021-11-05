@@ -6,15 +6,15 @@
 # Appearance
 
 theme: custom
-day_night: false
+day_night: true
 font: ''
 font_size: L
 
 # SEO
 
 site_type: Organization
-local_business_type: ''
-org_name: ''
+local_business_type: 'Game Development'
+org_name: 'Yakno'
 description: ''
 twitter: ''
 
@@ -25,8 +25,8 @@ appointment_url: 'https://calendly.com'
 contact_links:
   - icon: comments
     icon_pack: fas
-    name: Discuss on the forum
-    link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
+    name: Place Denchos Contact info here
+    link: ''
 
 # Site header
 
@@ -36,7 +36,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization

@@ -1,37 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dennis Dencho Taylor
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: Lead XR Programmer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Yakno, Syntech
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AR/VR development, Machine Learning, Fancy Automation, and Algorithms that make your eyes bleed.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Physics
+- Unity3D
+- C#
+- Robotics
+- Visual Effects
+- 
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Unity3D Certified
+    institution: Unity3D.com
+    year: 2018
+  - course: BAS in Game Development
+    institution: Digipen Institute of Technology, WA
+    year: 2018
+  - course: NIS in Computer Science
+    institution: Whatcom College, WA
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Teachers
+- Yakno, SynTech
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
