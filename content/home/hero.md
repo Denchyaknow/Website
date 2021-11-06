@@ -38,7 +38,7 @@ There a break right here...
 <h1>
     Widget Inc.
 </h1>
-<p>
+<p class="headline">
 I HATE MAKING WEBSITES
 WHY CANT I PUT JAVASCRIPT HERE
 </p>
