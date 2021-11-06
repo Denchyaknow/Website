@@ -35,14 +35,16 @@ There a break right here...
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <div class="headline">
-<h1>
+<h1 class="punchline">
     Widget Inc.
 </h1>
-<p class="headline">
+<p class="tagline">
 I HATE MAKING WEBSITES
 WHY CANT I PUT JAVASCRIPT HERE
 </p>
 </div>
 <script>
-		ScrollReveal().reveal('.headline');
+		ScrollReveal().reveal('.headline', { delay: 5000 });
+    ScrollReveal().reveal('.tagline', { delay: 500 });
+ScrollReveal().reveal('.punchline', { delay: 2000 });
 	</script>
