@@ -24,7 +24,14 @@ advanced:
   css_class: fullscreen
 ---
 
+<div class="container">  
+  <div class="bar bar1"></div>
+  <div class="ball"></div>
+  <div class="bar bar2"></div>
+<div>
+
 There a break right here...
+
 
 <br>
 
