@@ -28,18 +28,21 @@ There a break right here...
 
 <br>
 
-I HATE MAKING WEBSITES
-
-WHY CANT I PUT JAVASCRIPT HERE
 
 <!--a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a-->
 
 <a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-<h1 class="headline">
+<div class="headline">
+<h1>
     Widget Inc.
 </h1>
-<!--script>
+<p>
+I HATE MAKING WEBSITES
+WHY CANT I PUT JAVASCRIPT HERE
+</p>
+</div>
+<script>
 		ScrollReveal().reveal('.headline');
-	</script-->
+	</script>
