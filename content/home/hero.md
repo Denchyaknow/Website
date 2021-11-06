@@ -6,10 +6,10 @@ title: Online Course Template
 hero_media: student.svg
 design:
   background:
-    gradient_angle: 90
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
-    text_color_light: false
+    gradient_angle: 0
+    gradient_start: 'rgb(80,0,80)'
+    gradient_end: 'rgb(0,60,80)'
+    text_color_light: true
 cta:
   url: course/
   label: Explore our courses
@@ -24,12 +24,9 @@ advanced:
   css_class: fullscreen
 ---
 
-
 There a break right here...
 
-
 <br>
-
 
 <!--a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a-->
 
