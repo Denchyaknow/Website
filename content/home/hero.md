@@ -44,7 +44,7 @@ WHY CANT I PUT JAVASCRIPT HERE
 </p>
 </div>
 <script>
-		ScrollReveal().reveal('.headline', { delay: 5000 });
-    ScrollReveal().reveal('.tagline', { delay: 500 });
+		ScrollReveal().reveal('.headline', { delay: 500 });
+    ScrollReveal().reveal('.tagline', { delay: 1500 });
 ScrollReveal().reveal('.punchline', { delay: 2000 });
 	</script>
