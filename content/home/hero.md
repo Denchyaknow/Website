@@ -36,3 +36,10 @@ WHY CANT I PUT JAVASCRIPT HERE
 <br>
 <a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<h1 class="headline">
+    Widget Inc.
+</h1>
+<script>
+		ScrollReveal().reveal('.headline');
+	</script>
