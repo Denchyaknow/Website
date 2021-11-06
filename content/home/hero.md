@@ -24,11 +24,6 @@ advanced:
   css_class: fullscreen
 ---
 
-<div class="container">  
-  <div class="bar bar1"></div>
-  <div class="ball"></div>
-  <div class="bar bar2"></div>
-<div>
 
 There a break right here...
 
@@ -53,5 +48,5 @@ WHY CANT I PUT JAVASCRIPT HERE
 <script>
 		ScrollReveal().reveal('.headline', { delay: 500 });
     ScrollReveal().reveal('.tagline', { delay: 1500 });
-ScrollReveal().reveal('.punchline', { delay: 2000 });
+    ScrollReveal().reveal('.punchline', { delay: 2000 });
 	</script>
