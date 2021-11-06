@@ -40,6 +40,6 @@ WHY CANT I PUT JAVASCRIPT HERE
 <h1 class="headline">
     Widget Inc.
 </h1>
-<script>
+<!--script>
 		ScrollReveal().reveal('.headline');
-	</script>
+	</script-->
