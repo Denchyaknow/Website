@@ -45,11 +45,7 @@ WHY CANT I PUT JAVASCRIPT HERE
 </p>
 </div>
 <script>
-  window.onload = function() {
-  Particles.init({
-    selector: '.background'
-  });
-};
+ 
 		ScrollReveal().reveal('.headline', { delay: 500 });
     ScrollReveal().reveal('.tagline', { delay: 1500 });
     ScrollReveal().reveal('.punchline', { delay: 2000 });

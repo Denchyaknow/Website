@@ -3,3 +3,8 @@
 	//The second argument has to be at least a empty object or a object with your desired options
 	//OverlayScrollbars(document.querySelectorAll("body"), { });
 //});
+window.onload = function() {
+	Particles.init({
+	  selector: '.background'
+	});
+  };
