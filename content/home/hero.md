@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: Hi I'm Dennis
 hero_media: 
 design:
   background:
@@ -12,7 +12,7 @@ design:
     text_color_light: true
 cta:
   url: course/
-  label: Explore our courses
+  label: People call me Dencho
   icon_pack: fas
   icon: user-graduate
 cta_alt:
@@ -37,11 +37,10 @@ There a break right here...
 
 <div class="headline">
 <h1 class="punchline">
-    Widget Inc.
+    Boom Punchline
 </h1>
 <p class="tagline">
-I HATE MAKING WEBSITES
-WHY CANT I PUT JAVASCRIPT HERE
+WTF IS A TAGLINE
 </p>
 </div>
 <!--script>
