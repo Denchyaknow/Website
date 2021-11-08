@@ -44,9 +44,11 @@ There a break right here...
 {{< figure src="https://gfycat.com/requirednecessarybluefintuna.gif" title="gif" >}}
 {{< figure src="https://gfycat.com/requirednecessarybluefintuna.mp4" title="MP4" >}}
 {{< figure src="https://gfycat.com/requirednecessarybluefintuna" title="MP4" >}}
-{{< youtube id="zsAvdJypnj8" autoplay="true" title="wad" >}}
+{{< youtube id="zsAvdJypnj8?autoplay=1" autoplay="true" title="wad" >}}
 ![lightgallery](https://www.lightgalleryjs.com/lightgallery-demo.png)
-
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="http://www.youtube.com/embed/zsAvdJypnj8?autoplay=1&origin=http://example.com"
+  frameborder="0"/>
 <br>
 
 <!--a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a-->
