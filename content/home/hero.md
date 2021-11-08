@@ -58,7 +58,7 @@ WHY CANT I PUT JAVASCRIPT HERE
 //     .catch((error) => {
 //         console.error(error);
 //     });
-    tsParticles.load("tsparticles", {
+tsParticles.load("tsparticles", {
   detectRetina: false,
   fpsLimit: 60,
   interactivity: {
