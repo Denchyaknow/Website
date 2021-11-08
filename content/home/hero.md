@@ -45,12 +45,12 @@ WHY CANT I PUT JAVASCRIPT HERE
 </p>
 </div>
 <!--script>
-particlesJS.load('particles-js', 'assets/particlesjs-config.json', function() {
-  console.log('callback - particles.js config loaded');
-});
+//particlesJS.load('particles-js', 'assets/particlesjs-config.json', function() {
+  //console.log('callback - particles.js config loaded');
+//});
 </script-->
 <script>
-const tsParticles = require("tsparticles");
+//const tsParticles = require("tsparticles");
 tsParticles.load('tsparticles', 'assets/tsparticles.json', function() {
   console.log('callback - tsparticles config loaded');
 });
