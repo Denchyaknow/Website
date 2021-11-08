@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Hi I'm Dennis
+title: I'm an XR Developer
 hero_media: 
 design:
   background:
@@ -12,9 +12,9 @@ design:
     text_color_light: true
 cta:
   url: course/
-  label: People call me Dencho
+  label: This button will destroy your device
   icon_pack: fas
-  icon: user-graduate
+  icon: connectdevelop
 cta_alt:
   url:
   label:
