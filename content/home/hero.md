@@ -41,6 +41,23 @@ There a break right here...
 </div>
 
 <script>
+   var tag = document.createElement('script');
+        tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+ function onYouTubeIframeAPIReady() {
+     document.querySelectorAll('.ytplayer').forEach((item) => {
+         new YT.Player(item, {
+             events: {
+                 'onReady': (event) => {
+                     event.target.playVideo();
+                     event.target.mute();
+                 }
+             }
+         })
+     })
+ }
+
   function onYouTubeIframeAPIReady() {
 	var player;
 	player = new YT.Player('yt-embed', { // Replaces the <div id="yt-embed"> with an iframe
