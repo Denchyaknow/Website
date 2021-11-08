@@ -28,6 +28,10 @@ advanced:
 <video autoplay>
   <source src="https://youtu.be/zsAvdJypnj8" type="video/mp4">
 </video>
+<video autoplay muted loop playsinline>
+  <source src="https://gfycat.com/requirednecessarybluefintuna" type="video/webm">
+  <source src="https://gfycat.com/requirednecessarybluefintuna" type="video/mp4">
+</video>
 <img src="https://gfycat.com/requirednecessarybluefintuna.gif" alt="Macaque in the trees">
 There a break right here...
 
