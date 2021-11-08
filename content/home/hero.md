@@ -24,8 +24,7 @@ advanced:
   css_class: fullscreen
 ---
 
-
-<div id="tsparticles"></div>
+<div id="particles-js"></div>
 There a break right here...
 
 <br>
