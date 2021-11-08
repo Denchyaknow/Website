@@ -51,7 +51,7 @@ WHY CANT I PUT JAVASCRIPT HERE
 </script-->
 <script>
 tsParticles
-    .loadJSON("tsparticles", "assets/tsparticles.json")
+    .loadJSON("tsparticles", "assets/tsparticles0.json")
     .then((container) => {
         console.log("callback - tsparticles config loaded");
     })
