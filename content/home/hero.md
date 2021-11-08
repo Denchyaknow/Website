@@ -50,6 +50,9 @@ particlesJS.load('particles-js', 'assets/particlesjs-config.json', function() {
 });
 </script-->
 <script>
+  
+  const tsParticles = require("tsparticles");
+
 tsParticles
   .loadJSON("tsparticles", "assets/tsparticles.json")
   .then((container) => {
