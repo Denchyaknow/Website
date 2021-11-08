@@ -14,7 +14,7 @@ cta:
   url: course/
   label: This button will destroy your device
   icon_pack: fas
-  icon: fa-laptop-code
+  icon: power-off
 cta_alt:
   url:
   label:
