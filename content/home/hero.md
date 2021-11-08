@@ -34,7 +34,7 @@ advanced:
 </video>
 <div class="video-section">
             <video width="320" height="240" controls autoplay>
-  <source data-src="https://www.w3schools.com/tags/movie.mp4" type="video/mp4">
+  <source data-src="https://gfycat.com/requirednecessarybluefintuna" type="video/mp4">
 
   Your browser does not support the video tag.
 </video>
