@@ -26,7 +26,7 @@ advanced:
 <div id="particles-js"></div>
 <!--div id="tsparticles"></div-->
 <video autoplay>
-  <source src="https://www.canva.com/design/DAEvH0hlql8/4hHYfa7cxsb29jyBvgrt1g/view" type="video/mp4">
+  <source src="assets/stuff.mp4" type="video/mp4">
 </video>
 There a break right here...
 
