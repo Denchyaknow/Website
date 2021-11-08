@@ -24,7 +24,8 @@ advanced:
   css_class: fullscreen
 ---
 
-<div id="particles-js"></div>
+<canvas class="background"></canvas>
+
 There a break right here...
 
 <br>
@@ -44,9 +45,7 @@ WHY CANT I PUT JAVASCRIPT HERE
 </p>
 </div>
 <script>
- particlesJS.load('particles-js', 'assets/js/particles.js', function() {
-  console.log('callback - particles.js config loaded');
-});
+
 		ScrollReveal().reveal('.headline', { delay: 500 });
     ScrollReveal().reveal('.tagline', { delay: 1500 });
     ScrollReveal().reveal('.punchline', { delay: 2000 });
