@@ -50,10 +50,6 @@ WHY CANT I PUT JAVASCRIPT HERE
 //});
 </script-->
 <script>
-//const tsParticles = require("tsparticles");
-tsParticles.load('tsparticles', 'assets/tsparticles.json', function() {
-  console.log('callback - tsparticles config loaded');
-});
 
 
 		ScrollReveal().reveal('.headline', { delay: 500 });
