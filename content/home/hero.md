@@ -23,8 +23,8 @@ cta_note:
 advanced:
   css_class: fullscreen
 ---
-<div id="particles-js"></div>
-
+<!--div id="particles-js"></div-->
+<div id="tsparticles"></div>
 
 There a break right here...
 
@@ -44,10 +44,21 @@ I HATE MAKING WEBSITES
 WHY CANT I PUT JAVASCRIPT HERE
 </p>
 </div>
-<script>
+<!--script>
 particlesJS.load('particles-js', 'assets/particlesjs-config.json', function() {
   console.log('callback - particles.js config loaded');
 });
+</script-->
+<script>
+tsParticles
+  .loadJSON("tsparticles", "assets/tsparticles.json")
+  .then((container) => {
+    console.log("callback - tsparticles config loaded");
+  })
+  .catch((error) => {
+    console.error(error);
+  });
+
 		ScrollReveal().reveal('.headline', { delay: 500 });
     ScrollReveal().reveal('.tagline', { delay: 1500 });
     ScrollReveal().reveal('.punchline', { delay: 2000 });
