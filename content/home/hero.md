@@ -25,7 +25,6 @@ advanced:
 ---
 <div id="particles-js"></div>
 
-<canvas class="background"></canvas>
 
 There a break right here...
 
