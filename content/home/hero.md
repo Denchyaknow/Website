@@ -36,7 +36,7 @@ advanced:
         var player;
         function onYouTubeIframeAPIReady() {
           player = new YT.Player('player', {
-            height: '360',
+          height: '360',
           width: '640',
           videoId: 'zsAvdJypnj8',
           host: 'http://www.youtube-nocookie.com',//privacy mode
