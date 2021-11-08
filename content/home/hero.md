@@ -40,7 +40,6 @@ There a break right here...
   <div id="yt-embed"></div>
 </div>
 
-<script async src="https://www.youtube.com/iframe_api"></script>
 <script>
   function onYouTubeIframeAPIReady() {
 	var player;
