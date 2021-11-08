@@ -25,7 +25,7 @@ advanced:
 ---
 
 
-<canvas class="background"></canvas>
+<div id="tsparticles"></div>
 There a break right here...
 
 <br>
