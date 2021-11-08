@@ -50,9 +50,7 @@ WHY CANT I PUT JAVASCRIPT HERE
 //});
 </script-->
 <script>
-
-
 		ScrollReveal().reveal('.headline', { delay: 500 });
     ScrollReveal().reveal('.tagline', { delay: 1500 });
     ScrollReveal().reveal('.punchline', { delay: 2000 });
-	</script>
+</script>
