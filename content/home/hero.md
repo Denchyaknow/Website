@@ -32,6 +32,13 @@ advanced:
   <source src="https://gfycat.com/requirednecessarybluefintuna" type="video/webm">
   <source src="https://gfycat.com/requirednecessarybluefintuna" type="video/mp4">
 </video>
+<div class="video-section">
+            <video width="320" height="240" controls autoplay>
+  <source data-src="https://www.w3schools.com/tags/movie.mp4" type="video/mp4">
+
+  Your browser does not support the video tag.
+</video>
+        </div>
 <img src="https://gfycat.com/requirednecessarybluefintuna.gif" alt="Macaque in the trees">
 There a break right here...
 
