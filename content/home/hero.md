@@ -28,6 +28,7 @@ advanced:
 <video autoplay>
   <source src="https://youtu.be/zsAvdJypnj8" type="video/mp4">
 </video>
+<img src="https://gfycat.com/requirednecessarybluefintuna.gif" alt="Macaque in the trees">
 There a break right here...
 
 ![lightgallery](https://www.lightgalleryjs.com/lightgallery-demo.png)
