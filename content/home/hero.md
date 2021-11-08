@@ -54,16 +54,7 @@ WHY CANT I PUT JAVASCRIPT HERE
 tsParticles.load('tsparticles', 'assets/tsparticles.json', function() {
   console.log('callback - tsparticles config loaded');
 });
-/*
-tsParticles
-  .loadJSON("tsparticles", "assets/tsparticles.json")
-  .then((container) => {
-    console.log("callback - tsparticles config loaded");
-  })
-  .catch((error) => {
-    console.error(error);
-  }); 
-  */
+
 
 		ScrollReveal().reveal('.headline', { delay: 500 });
     ScrollReveal().reveal('.tagline', { delay: 1500 });
