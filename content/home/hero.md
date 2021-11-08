@@ -23,6 +23,7 @@ cta_note:
 advanced:
   css_class: fullscreen
 ---
+<div id="particles-js"></div>
 
 <canvas class="background"></canvas>
 
@@ -45,7 +46,9 @@ WHY CANT I PUT JAVASCRIPT HERE
 </p>
 </div>
 <script>
-
+particlesJS.load('particles-js', 'assets/particlesjs-config.json', function() {
+  console.log('callback - particles.js config loaded');
+});
 		ScrollReveal().reveal('.headline', { delay: 500 });
     ScrollReveal().reveal('.tagline', { delay: 1500 });
     ScrollReveal().reveal('.punchline', { delay: 2000 });
