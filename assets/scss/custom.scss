@@ -22,7 +22,18 @@
   justify-content: center;
 }
 
+#tsparticles {
+  width: 100% !important;
+  height: 100% !important;
+  background-color: $gray-900;
+  overflow: hidden;
+  background-size: cover;
+  background-position: 50% 50%;
+  position: fixed;
+  z-index: -1;
+  top: 0; right: 0; bottom: 0; left: 0;
 
+}
 #particles-js {
   width: 100% !important;
   height: 100% !important;
