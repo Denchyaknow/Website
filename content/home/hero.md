@@ -25,70 +25,53 @@ advanced:
 ---
 <div id="particles-js"></div>
 <!--div id="tsparticles"></div-->
-
-There a break right here...
-{{< figure src="https://gfycat.com/requirednecessarybluefintuna" title="MP4" >}}
-{{< youtube id="zsAvdJypnj8?autoplay=1" autoplay="true" title="wad" >}}
-![lightgallery](https://www.lightgalleryjs.com/lightgallery-demo.png)
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="http://www.youtube.com/embed/zsAvdJypnj8?autoplay=1&origin=http://example.com"
-  frameborder="0"/>
-
-
-<br>
-<div class="embed">
-  <div id="yt-embed"></div>
+<div class="videobox" >
+<div id="player"></div>
 </div>
-
 <script>
-   var tag = document.createElement('script');
+  var tag = document.createElement('script');
         tag.src = "https://www.youtube.com/iframe_api";
-    var firstScriptTag = document.getElementsByTagName('script')[0];
+        var firstScriptTag = document.getElementsByTagName('script')[0];
         firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
- function onYouTubeIframeAPIReady() {
-     document.querySelectorAll('.ytplayer').forEach((item) => {
-         new YT.Player(item, {
-             events: {
-                 'onReady': (event) => {
-                     event.target.playVideo();
-                     event.target.mute();
-                 }
-             }
-         })
-     })
- }
+        var player;
+        function onYouTubeIframeAPIReady() {
+          player = new YT.Player('player', {
+            height: '360',
+          width: '640',
+          videoId: 'zsAvdJypnj8',
+          host: 'http://www.youtube-nocookie.com',//privacy mode
+          playerVars: { 'controls': 0, //hide controls
+                       'autohide': 1,
+                       'modestbranding': 1, //hide brand
+                       'showinfo': 0, //hide video info
+                       'mute' : 1 //video is muted
+                      },
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+        });
+        }
+        function onPlayerReady(event) {
+          goToStart(event);
+        }
+        function onPlayerStateChange(event) {
+          var tm = player.getCurrentTime();
+          if (event.data == YT.PlayerState.ENDED) {
+            goToStart(event);
+          }
+        }
+        function goToStart(event) {
+          event.target.seekTo(0,1);
+          player.playVideo();
+        }
+</script>
+There a break right here...
 
-  function onYouTubeIframeAPIReady() {
-	var player;
-	player = new YT.Player('yt-embed', { // Replaces the <div id="yt-embed"> with an iframe
-	  videoId: 'zsAvdJypnj8', // Video ID
-	  width: 960, // Video width
-	  height: 600, // Video height
-	  playerVars: {
-		autoplay: 1, // Auto-play
-		controls: 0, // Turn off controls
-		showinfo: 0, // Hide the video title
-		modestbranding: 1, // Hide all YouTube branding
-		loop: 1, // Loop video
-		fs: 0, // Remove full screen button
-		cc_load_policy: 1, // Turn off closed captions
-		iv_load_policy: 3,  // Turn off annotations
-		autohide: 1, // Turn off controls auto-hiding
-		rel: 0, // Turn off related content on pause
-		disablekb: 1, // Turn off keyboard controls
-	  },
-	  events: {
-		onReady: function(e) {
-		  e.target.mute();
-		}
-	  }
-	});
-  }
-  </script>
 <!--a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a-->
 
-<a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<!--a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a>
+<script async defer src="https://buttons.github.io/buttons.js"></script-->
 
 <div class="headline">
 <h1 class="punchline">
@@ -107,14 +90,6 @@ WTF IS A TAGLINE
   particlesJS.load('particles-js', 'assets/particlesjs0.json', function() {
   console.log('callback - particles.js config loaded');
 });
-// tsParticles
-//     .loadJSON("tsparticles", "assets/tsparticles0.json")
-//     .then((container) => {
-//         console.log("callback - tsparticles config loaded");
-//     })
-//     .catch((error) => {
-//         console.error(error);
-//     });
 </script>
 <script>
 		ScrollReveal().reveal('.headline', { delay: 500 });
