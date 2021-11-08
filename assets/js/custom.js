@@ -4,32 +4,32 @@
 	//OverlayScrollbars(document.querySelectorAll("body"), { });
 //});
 //For some yummy particles
-document.addEventListener("DOMContentLoaded", function() {
-	var lazyVideos = [].slice.call(document.querySelectorAll("video.lazy"));
-	console.log("Video Loader Init!");
-	if ("IntersectionObserver" in window) {
-	  var lazyVideoObserver = new IntersectionObserver(function(entries, observer) {
-		entries.forEach(function(video) {
-		  if (video.isIntersecting) {
-			for (var source in video.target.children) {
-			  var videoSource = video.target.children[source];
-			  if (typeof videoSource.tagName === "string" && videoSource.tagName === "SOURCE") {
-				videoSource.src = videoSource.dataset.src;
-			  }
-			}
-  
-			video.target.load();
-			video.target.classList.remove("lazy");
-			lazyVideoObserver.unobserve(video.target);
-		  }
-		});
-	  });
-  
-	  lazyVideos.forEach(function(lazyVideo) {
-		lazyVideoObserver.observe(lazyVideo);
-	  });
-	}
-  });
+function onYouTubeIframeAPIReady() {
+	var player;
+	player = new YT.Player('yt-embed', { // Replaces the <div id="yt-embed"> with an iframe
+	  videoId: 'zsAvdJypnj8', // Video ID
+	  width: 960, // Video width
+	  height: 600, // Video height
+	  playerVars: {
+		autoplay: 1, // Auto-play
+		controls: 0, // Turn off controls
+		showinfo: 0, // Hide the video title
+		modestbranding: 1, // Hide all YouTube branding
+		loop: 1, // Loop video
+		fs: 0, // Remove full screen button
+		cc_load_policy: 1, // Turn off closed captions
+		iv_load_policy: 3,  // Turn off annotations
+		autohide: 1, // Turn off controls auto-hiding
+		rel: 0, // Turn off related content on pause
+		disablekb: 1, // Turn off keyboard controls
+	  },
+	  events: {
+		onReady: function(e) {
+		  e.target.mute();
+		}
+	  }
+	});
+  }
 //tsparticles
 // const tsParticles = require("tsparticles");
 // tsParticles.load("tsparticles",

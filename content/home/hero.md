@@ -25,31 +25,22 @@ advanced:
 ---
 <div id="particles-js"></div>
 <!--div id="tsparticles"></div-->
-<video autoplay>
-  <source src="https://youtu.be/zsAvdJypnj8" type="video/mp4">
-</video>
-<video autoplay muted loop playsinline>
-  <source src="https://gfycat.com/requirednecessarybluefintuna" type="video/webm">
-  <source src="https://gfycat.com/requirednecessarybluefintuna" type="video/mp4">
-</video>
-<div class="video-section">
-            <video width="320" height="240" controls autoplay>
-  <source data-src="https://gfycat.com/requirednecessarybluefintuna" type="video/mp4">
 
-  Your browser does not support the video tag.
-</video>
-        </div>
-<img src="https://gfycat.com/requirednecessarybluefintuna.gif" alt="Macaque in the trees">
 There a break right here...
-{{< figure src="https://gfycat.com/requirednecessarybluefintuna.gif" title="gif" >}}
-{{< figure src="https://gfycat.com/requirednecessarybluefintuna.mp4" title="MP4" >}}
 {{< figure src="https://gfycat.com/requirednecessarybluefintuna" title="MP4" >}}
 {{< youtube id="zsAvdJypnj8?autoplay=1" autoplay="true" title="wad" >}}
 ![lightgallery](https://www.lightgalleryjs.com/lightgallery-demo.png)
 <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="http://www.youtube.com/embed/zsAvdJypnj8?autoplay=1&origin=http://example.com"
   frameborder="0"/>
+
+
 <br>
+<div class="embed">
+  <div id="yt-embed"></div>
+</div>
+
+<script async src="https://www.youtube.com/iframe_api"></script>
 
 <!--a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a-->
 
