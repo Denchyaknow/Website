@@ -44,7 +44,7 @@ There a break right here...
 {{< figure src="https://gfycat.com/requirednecessarybluefintuna.gif" title="gif" >}}
 {{< figure src="https://gfycat.com/requirednecessarybluefintuna.mp4" title="MP4" >}}
 {{< figure src="https://gfycat.com/requirednecessarybluefintuna" title="MP4" >}}
-
+{{< youtube id="zsAvdJypnj8" autoplay="true" >}}
 ![lightgallery](https://www.lightgalleryjs.com/lightgallery-demo.png)
 
 <br>
