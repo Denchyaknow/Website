@@ -26,7 +26,7 @@ advanced:
 <div id="particles-js"></div>
 <!--div id="tsparticles"></div-->
 <video autoplay>
-  <source src="assets/stuff.mp4" type="video/mp4">
+  <source src="https://youtu.be/zsAvdJypnj8" type="video/mp4">
 </video>
 There a break right here...
 
