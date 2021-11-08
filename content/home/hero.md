@@ -30,6 +30,8 @@ advanced:
 </video>
 There a break right here...
 
+![lightgallery](https://www.lightgalleryjs.com/lightgallery-demo.png)
+
 <br>
 
 <!--a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a-->
