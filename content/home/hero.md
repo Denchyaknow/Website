@@ -7,8 +7,8 @@ hero_media:
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(142, 184, 229)'
-    gradient_end: 'rgb(27, 44, 63)'
+    gradient_start: 'rgb(27, 44, 63)'
+    gradient_end: 'rgb(142, 184, 229)'
     text_color_light: true
 cta:
   url: course/
