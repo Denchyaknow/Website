@@ -1,10 +1,10 @@
 ---
-title: blank
+title: 
 active: true
 subtitle: 
 widget: blank
 headless: true
-weight: 15
+weight: 30
 design: 
   columns: '1'
 advanced:

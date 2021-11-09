@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true
-weight: 30
+weight: 25
 title: Skills
 subtitle: ✨ Teach _anything_ with
 feature:

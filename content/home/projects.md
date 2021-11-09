@@ -1,11 +1,11 @@
 ---
 widget: portfolio
 headless: true
-weight: 30
-title: Explore top courses
+weight: 45
+title: I made things
 subtitle:
 content:
-  page_type: book
+  page_type: card
   filter_default: 0
 
   filter_button:
