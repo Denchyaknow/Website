@@ -133,3 +133,25 @@ background: linear-gradient(to right,  rgba(48,255,144,1) 0%,rgba(237,45,237,1) 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#30ff90', endColorstr='#30ff90',GradientType=1 ); /* IE6-9 */
 
 }
+
+//Custom Shape Dividers
+.custom-shape-divider-bottom-1636500080 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1636500080 svg {
+  position: relative;
+  display: block;
+  width: calc(107% + 1.3px);
+  height: 220px;
+}
+
+.custom-shape-divider-bottom-1636500080 .shape-fill {
+  fill: #AB1F1F;
+}
