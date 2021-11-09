@@ -73,6 +73,7 @@ iframe {
 }
 
 .transparent {
+  z-index: -50;
   height: 40vw;
   background: none!important;
   background-color: #DFDBE5;
