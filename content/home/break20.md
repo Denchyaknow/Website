@@ -13,7 +13,7 @@ design:
     text_color_light: true
   columns: '1'
 advanced:
-  css_class: transparent, serperator-wrapper
+  css_class: transparent serperator-wrapper
 ---
 <div class="background">
  <div class="seperator gradient">
