@@ -16,6 +16,9 @@ advanced:
   css_class: transparent
 ---
 <div class="background">
+
+</div>
+<div class="waveborder">
 <div class="wave wave-back"></div>
 <div class="wave wave-middle"></div>
 <div class="wave wave-front"></div><a href="#how-bolo-works" class="fab">
