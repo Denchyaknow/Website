@@ -8,8 +8,6 @@ design:
 ---
 
 <div class="videobox">
-  <div class="cube"></div>
-  <div class="blur"></div>
   <div id="player"></div>
   <div class="video-cover"></div>
 </div>
