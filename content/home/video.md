@@ -9,6 +9,7 @@ design:
 
 <div class="videobox">
   <div id="player"></div>
+  <div class="video-cover"></div>
 </div>
 
 <!--{{% cta cta_link="https://discordapp.com/users/102797530168844288" cta_text="Contact via Discord" %}}-->
