@@ -17,4 +17,6 @@ feature:
     icon_pack: fas
     name: Math & Code
     description: 
+advanced:
+  css_class: transparent
 ---
