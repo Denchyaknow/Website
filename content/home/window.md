@@ -1,5 +1,6 @@
 ---
 title: blank
+active: true
 subtitle: 
 widget: blank
 headless: true
