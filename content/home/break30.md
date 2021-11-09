@@ -10,3 +10,4 @@ design:
 advanced:
   css_class: transparent
 ---
+<div class="background"></div>
