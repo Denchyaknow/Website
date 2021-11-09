@@ -1,5 +1,5 @@
 ---
-title: 
+title: blank
 subtitle: 
 widget: blank
 headless: true
