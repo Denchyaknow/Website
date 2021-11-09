@@ -8,7 +8,7 @@ design:
   background:
     gradient_angle: 0
     gradient_start: 'rgb(142, 184, 229)'
-    gradient_end: 'rgb(68, 43, 72)'
+    gradient_end: 'rgb(29, 50, 65)'
     text_color_light: true
 cta:
   url: course/
