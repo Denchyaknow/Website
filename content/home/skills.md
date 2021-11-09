@@ -26,5 +26,3 @@ feature:
 advanced:
   css_class: transparentcover
 ---
-<div id="divider"></div>
-<div id="divider"></div>
