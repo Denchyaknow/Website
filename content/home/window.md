@@ -5,6 +5,8 @@ subtitle:
 widget: blank
 headless: true
 weight: 15
-design: transparent
+design: 
   columns: '1'
+advanced:
+  css_class: transparent
 ---
