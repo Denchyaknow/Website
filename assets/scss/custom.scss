@@ -36,6 +36,7 @@
   top: 0; right: 0; bottom: 0; left: 0;
 }
 
+//For video stuff
 iframe {
     position: absolute;
     top: 0;
@@ -44,14 +45,6 @@ iframe {
     height: 49vw;
     z-index: -15;
     pointer-events: none;
-}
-
-.background {
-  position: absolute;
-  display: block;
-  top: 0;
-  left: 0;
-  z-index: -20;
 }
 
 .videobox {
@@ -64,3 +57,16 @@ iframe {
   background: rgba(130, 133, 133, 0.47) none no-repeat local 1px 0px;
   z-index: 10;
 }
+
+.home-section-bg{
+  z-index: -30;
+}
+
+.background {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: -20;
+}
+

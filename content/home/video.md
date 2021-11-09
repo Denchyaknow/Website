@@ -2,7 +2,7 @@
 title: I can create just about anything
 subtitle: 
 widget: blank
-weight: 50
+weight: 20
 design:
   columns: '1'
 ---
