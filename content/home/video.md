@@ -9,7 +9,7 @@ design:
 
 <div class="videobox">
   <div id="player"></div>
-  <div class="video-cover"></div>
+  <div class="videocover"></div>
 </div>
 
 
