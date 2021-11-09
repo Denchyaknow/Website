@@ -25,10 +25,10 @@ advanced:
 ---
 <div id="particles-js"></div>
 <!--div id="tsparticles"></div-->
-<div class="videobox" >
+<!--div class="videobox" >
 <div id="player"></div>
-</div>
-<script>
+</div-->
+<!--script>
   var tag = document.createElement('script');
         tag.src = "https://www.youtube.com/iframe_api";
         var firstScriptTag = document.getElementsByTagName('script')[0];
@@ -65,7 +65,7 @@ advanced:
           event.target.seekTo(0,1);
           player.playVideo();
         }
-</script>
+</script-->
 There a break right here...
 
 <!--a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a-->

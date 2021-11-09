@@ -7,7 +7,7 @@ design:
   columns: '1'
 ---
 
-<div class="videobox" >
+<div class="videobox">
   <div id="player"></div>
 </div>
 
