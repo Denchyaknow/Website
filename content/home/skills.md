@@ -24,5 +24,5 @@ feature:
     name: Math & Code
     description: 
 advanced:
-  css_class: transparent
+  css_class: transparentcover
 ---
