@@ -8,7 +8,7 @@ design:
   background:
     gradient_angle: 0
     gradient_start: 'rgb(142, 184, 229)'
-    gradient_end: 'rgb(68, 43, 72)'
+    gradient_end: 'rgb(27, 44, 63)'
     text_color_light: true
 cta:
   url: course/
@@ -23,6 +23,7 @@ cta_note:
 advanced:
   css_class: fullscreen
 ---
+
 <div id="particles-js"></div>
 <!--div id="tsparticles"></div-->
 <!--div class="videobox" >
