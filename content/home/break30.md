@@ -8,6 +8,6 @@ weight: 30
 design: 
   columns: '1'
 advanced:
-  css_class: shapedivider_bottom
+  css_class: transparent
 ---
 <div class="background"></div>
