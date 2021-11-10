@@ -89,7 +89,7 @@ WTF IS A TAGLINE
 //});
 </script-->
 <script>
-  particlesJS.load('particles-js', 'assets/particlesjs0.json', function() {
+  particlesJS.load('particles-js', 'assets/particlesjs1.json', function() {
   console.log('callback - particles.js config loaded');
 });
 </script>
