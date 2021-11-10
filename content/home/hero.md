@@ -83,6 +83,17 @@ There a break right here...
 WTF IS A TAGLINE
 </p>
 </div>
+<a href="https://github.com/denchyaknow/codestats-readme">
+  <img align="center" src="https://codestats-readme.vercel.app/api?username=Denchyaknow&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/denchyaknow/codestats-readme">
+  <img align="center" src="https://codestats-readme.vercel.app/api/history/?username=Denchyaknow&theme=radical&days_count=5&language_count=30&title=Latest" />
+</a>
+<a href="https://github.com/denchyaknow/codestats-readme">
+  <img align="center" src="https://codestats-readme.vercel.app/api/top-langs/?username=Denchyaknow&theme=radical" />
+</a>
+
+
 <!--script>
 //particlesJS.load('particles-js', 'assets/particlesjs-config.json', function() {
   //console.log('callback - particles.js config loaded');
