@@ -135,7 +135,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#30ff90', end
 }
 
 //Custom Shape Dividers
-.custom-shape-divider-bottom-1636500080 {
+.custom-shape-divider-bottom {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -145,13 +145,33 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#30ff90', end
   transform: rotate(180deg);
 }
 
-.custom-shape-divider-bottom-1636500080 svg {
+.custom-shape-divider-bottom svg {
   position: relative;
   display: block;
   width: calc(107% + 1.3px);
   height: 220px;
 }
 
-.custom-shape-divider-bottom-1636500080 .shape-fill {
+.custom-shape-divider-bottom .shape-fill {
+  fill: #AB1F1F;
+}
+
+.custom-shape-divider-top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top svg {
+  position: relative;
+  display: block;
+  width: calc(107% + 1.3px);
+  height: 220px;
+}
+
+.custom-shape-divider-top .shape-fill {
   fill: #AB1F1F;
 }

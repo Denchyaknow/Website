@@ -4,12 +4,12 @@ headless: true
 weight: 10
 title: I'm an XR Developer
 hero_media: 
-design:
-  background:
-    gradient_angle: 0
-    gradient_start: 'rgb(5, 28, 47)'
-    gradient_end: 'rgb(68, 43, 72)'
-    text_color_light: true
+#design:
+#  background:
+#    gradient_angle: 0
+#    gradient_start: 'rgb(5, 28, 47)'
+#    gradient_end: 'rgb(68, 43, 72)'
+#    text_color_light: true
 cta:
   url: course/
   label: This button will destroy your device
@@ -25,6 +25,7 @@ advanced:
 ---
 
 <div id="particles-js"></div>
+<div class="particleback"></div>
 <!--div id="tsparticles"></div-->
 <!--div class="videobox" >
 <div id="player"></div>

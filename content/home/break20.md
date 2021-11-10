@@ -6,26 +6,32 @@ widget: blank
 headless: true
 weight: 20
 design: 
-  background:
-    gradient_angle: 0
-    gradient_start:  'rgba(59,44,80,1)'
-    gradient_end: 'rgb(5, 28, 47)'
-    text_color_light: true
+#  background:
+#    gradient_angle: 0
+#    gradient_start:  'rgba(59,44,80,1)'
+#    gradient_end: 'rgb(5, 28, 47)'
+#    text_color_light: true
   columns: '1'
 advanced:
   css_class: transparent serperator-wrapper
 ---
-<div class="custom-shape-divider-bottom-1636500080">
+<div class="custom-shape-divider-bottom">
     <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
         <rect x="1200" height="3.6"></rect>
         <rect height="3.6"></rect>
         <path d="M0,0V3.6H580.08c11,0,19.92,5.09,19.92,13.2,0-8.14,8.88-13.2,19.92-13.2H1200V0Z" class="shape-fill"></path>
     </svg>
 </div>
-<!--div class="background">
- <div class="seperator gradient">
-  </div>
-</div-->
+<div class="custom-shape-divider-top">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <rect x="1200" height="3.6"></rect>
+        <rect height="3.6"></rect>
+        <path d="M0,0V3.6H580.08c11,0,19.92,5.09,19.92,13.2,0-8.14,8.88-13.2,19.92-13.2H1200V0Z" class="shape-fill"></path>
+    </svg>
+</div>
+
+<div class="background">
+</div>
 <!--div class="seperator">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
   <path fill="#5000ca" fill-opacity="1" d="M0,96L0,224L62.6,224L62.6,224L125.2,224L125.2,288L187.8,288L187.8,96L250.4,96L250.4,32L313,32L313,192L375.7,192L375.7,224L438.3,224L438.3,128L500.9,128L500.9,128L563.5,128L563.5,128L626.1,128L626.1,160L688.7,160L688.7,128L751.3,128L751.3,224L813.9,224L813.9,32L876.5,32L876.5,96L939.1,96L939.1,160L1001.7,160L1001.7,256L1064.3,256L1064.3,256L1127,256L1127,32L1189.6,32L1189.6,64L1252.2,64L1252.2,256L1314.8,256L1314.8,128L1377.4,128L1377.4,192L1440,192L1440,320L1377.4,320L1377.4,320L1314.8,320L1314.8,320L1252.2,320L1252.2,320L1189.6,320L1189.6,320L1127,320L1127,320L1064.3,320L1064.3,320L1001.7,320L1001.7,320L939.1,320L939.1,320L876.5,320L876.5,320L813.9,320L813.9,320L751.3,320L751.3,320L688.7,320L688.7,320L626.1,320L626.1,320L563.5,320L563.5,320L500.9,320L500.9,320L438.3,320L438.3,320L375.7,320L375.7,320L313,320L313,320L250.4,320L250.4,320L187.8,320L187.8,320L125.2,320L125.2,320L62.6,320L62.6,320L0,320L0,320Z"></path>
