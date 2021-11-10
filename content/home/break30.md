@@ -8,6 +8,6 @@ weight: 30
 design: 
   columns: '1'
 advanced:
-  css_class: shapedividers_com-5545
+  css_class: shapedivider_bottom
 ---
 <div class="background"></div>

@@ -13,7 +13,7 @@ design:
 #    text_color_light: true
   columns: '1'
 advanced:
-  css_class: compbackground
+  css_class: compbackground shapedivider_bottom
 ---
 
 
