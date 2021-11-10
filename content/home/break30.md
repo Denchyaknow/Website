@@ -8,6 +8,6 @@ weight: 30
 design: 
   columns: '1'
 advanced:
-  css_class: transparent ss-style-invertedrounded
+  css_class: transparent
 ---
 <div class="background"></div>
