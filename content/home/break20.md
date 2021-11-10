@@ -13,7 +13,7 @@ design:
 #    text_color_light: true
   columns: '1'
 advanced:
-  css_class: ss-style-triangles
+  css_class: compbackground
 ---
 
 
