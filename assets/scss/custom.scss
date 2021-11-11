@@ -114,17 +114,33 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 //CodeStats
 .codestats_block {
+  img {
+
+  }
 
 }
 .codestats_top {
+  img {
 
+  }
 }
 .codestats_bottom {
-  
+  .codestats_most{
+    img {
+      
+    }
+  }
+  .codestats_latest{
+    img{
+
+    }
+  }
 }
 
 
 //Section Dividers
+
+//Skills section
 .skills_body{
   background: #442B48!important;
 }
@@ -153,9 +169,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   }
   
   @media (min-width:2100px){
-  .skills_top::before{
-  background-size: 100% calc(2vw + 99px);
-  }
+    .skills_top::before{
+      background-size: 100% calc(2vw + 99px);
+    }
   }
   
   @keyframes skills_top_anime {
@@ -190,9 +206,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   }
   
   @media (min-width:2100px){
-  .skills_bottom::before{
-  background-size: 100% calc(2vw + 99px);
-  }
+    .skills_bottom::before{
+      background-size: 100% calc(2vw + 99px);
+    }
   }
   
   @keyframes skills_bottom_anime {
