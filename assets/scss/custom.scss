@@ -114,10 +114,20 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 //CodeStats
 .codestats_block {
-  img {
+  width: 80vw;
+  display: flex;
+  flex-flow: row wrap;
+  
 
-  }
-
+}
+@media all and (min-width: 600px) {
+  /* We tell both sidebars to share a row */
+  .aside { flex: 1 auto; }
+}
+@media all and (min-width: 800px) {
+  .codestats_top { flex: 2 0px; }
+  .codestats_most { order: 1; }
+  .codestats_latest { order: 2; }
 }
 .codestats_top {
   img {
