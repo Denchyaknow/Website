@@ -13,5 +13,5 @@ design:
 #    text_color_light: true
   columns: '1'
 advanced:
-  css_class: stats_bottom
+  css_class: skills_bottom
 ---
