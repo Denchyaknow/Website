@@ -83,19 +83,6 @@ There a break right here...
 WTF IS A TAGLINE
 </p>
 </div>
-<div class="codestats_block">
-  <div class="codestats_top">
-      <img src="https://codestats-readme.vercel.app/api?username=Denchyaknow&show_icons=true&theme=radical" />
-  </div>
-  <div class="codestats_bottom">
-    <div class="codestats_latest">
-      <img src="https://codestats-readme.vercel.app/api/history/?username=Denchyaknow&theme=radical&days_count=5&language_count=30&title=Latest" />
-    </div>
-    <div class="codestats_most">
-      <img src="https://codestats-readme.vercel.app/api/top-langs/?username=Denchyaknow&theme=radical" />
-    </div>
-  </div>
-</div>
 
 <!--script>
 //particlesJS.load('particles-js', 'assets/particlesjs-config.json', function() {
