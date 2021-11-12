@@ -10,3 +10,7 @@ design:
 advanced:
   css_class: transparent
 ---
+<div class="drop-shadow">
+<div class="glass"></div>
+  <span>GLASS</span>
+  </div>

@@ -14,19 +14,19 @@ feature:
   - icon: code
     icon_pack: fas
     name: Programming
-    description: Mostly in C#, but I am not afraid to tackle some docs.
+    description: Mostly in C#, but I dabbled in Js, Java, C++, Python, HTML, CSS/SCSS, MD
   - icon: unity
     icon_pack: fab
     name: Unity3D
     description: 2D, 3D, VR, AR, and even WebGL, I pretty much did it all using the Unity 3D Engine.
   - icon: network-wired
     icon_pack: fas
-    name: Networking SDKs
+    name: Networking
     description: Photon Pun, Steam, Discord, Oculus/Meta, Sockets, ect.
   - icon: bug
     icon_pack: fas
-    name: Debugging / Problem-solving
-    description: I'm soo good at fixing my mistakes :D
+    name: Debugging
+    description: Is this really a skill?
 advanced:
   css_class: skills_body
 ---
