@@ -16,13 +16,13 @@ feature:
     name: Programming
     description: Mostly in C#, but I am not afraid to tackle some docs.
   - icon: unity
-    icon_pack: fas
+    icon_pack: fab
     name: Unity3D
     description: 2D, 3D, VR, AR, and even WebGL, I pretty much did it all using the Unity 3D Engine.
   - icon: network-wired
     icon_pack: fas
-    name: Networking 
-    description: 
+    name: Networking SDKs
+    description: Photon Pun, Steam, Discord, Oculus/Meta, Sockets, ect.
   - icon: bug
     icon_pack: fas
     name: Debugging / Problem-solving
