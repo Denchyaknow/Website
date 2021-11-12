@@ -18,3 +18,8 @@ advanced:
       <img class="codestats_most" src="https://codestats-readme.vercel.app/api/top-langs/?username=Denchyaknow&theme=radical" />
   </div>
 </div>
+<script>
+    ScrollReveal().reveal('.codestats_top', { delay: 300 });
+    ScrollReveal().reveal('.codestats_latest', { delay: 500 });
+    ScrollReveal().reveal('.codestats_most', { delay: 750 });
+</script>
