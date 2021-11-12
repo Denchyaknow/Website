@@ -11,18 +11,22 @@ subtitle:
 #    gradient_end: 'rgba(59,44,80,1)'
 #    text_color_light: true
 feature:
-  - icon: chalkboard-teacher
-    icon_pack: fas
-    name: Slides
-    description: 
-  - icon: video
-    icon_pack: fas
-    name: Video
-    description: 
   - icon: code
     icon_pack: fas
-    name: Math & Code
+    name: Programming
+    description: Mostly in C#, but I am not afraid to tackle some docs.
+  - icon: unity
+    icon_pack: fas
+    name: Unity3D
+    description: 2D, 3D, VR, AR, and even WebGL, I pretty much did it all using the Unity 3D Engine.
+  - icon: network-wired
+    icon_pack: fas
+    name: Networking 
     description: 
+  - icon: bug
+    icon_pack: fas
+    name: Debugging / Problem-solving
+    description: I'm soo good at fixing my mistakes :D
 advanced:
   css_class: skills_body
 ---
