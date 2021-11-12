@@ -115,34 +115,28 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 //CodeStats
 .codestats_block {
   width: 80vw;
-  display: flex;
-  flex-flow: column wrap;
+  display:block;
+  //flex-flow: column wrap;
 }
 .codestats_top {
   width: 100%;
-  img {
-    width: 100%;
-  }
 }
 .codestats_bottom {
   display:  flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  .codestats_most{
-    width: 100%;
-    img {
-      width: 100%;
-    }
-  }
-  .codestats_latest{
-    width: 100%;
-    img{
-      width: 100%;
-
-    }
+}
+.codestats_most{
+  width: 100%;
+}
+.codestats_latest {
+  width: 100%;
+}
+@media (min-width:1000px) {
+  .codestats_bottom {
+    
   }
 }
-
 
 //Section Dividers
 
