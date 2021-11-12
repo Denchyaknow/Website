@@ -125,9 +125,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  align-items: stretch;
+  align-items: flex-start;
   justify-content: center;
-  align-content: stretch;
+  align-content: space-between;
 }
 .codestats_most{
   flex-basis: 50%;
