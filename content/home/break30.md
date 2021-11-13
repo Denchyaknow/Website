@@ -10,19 +10,15 @@ design:
 advanced:
   css_class: transparent
 ---
-<div class="video_break">
-<iframe id="video_frame"
-        width="1000" height="640"
-        src="https://www.youtube.com/embed/zsAvdJypnj8?enablejsapi=1"
-        frameborder="0"
-        style="border: solid 4px #37474F"
-></iframe>
+<div class="video_box">
+  <div id="video_frame"></div>
+  <div class="video_cover"></div>
 </div>
 
 <!--{{% cta cta_link="https://discordapp.com/users/102797530168844288" cta_text="Contact via Discord" %}}-->
 <script>
   var tag = document.createElement('script');
-  tag.id = "video_background";
+  tag.id = "video_frame";
   tag.src = "https://www.youtube.com/iframe_api";
 
   var firstScriptTag = document.getElementsByTagName('script')[0];
@@ -31,6 +27,10 @@ advanced:
   var player;
   function onYouTubeIframeAPIReady() {
     player = new YT.Player('video_frame', {
+          height: '740',
+          width: '1080',
+          videoId: 'zsAvdJypnj8',
+          host: 'http://www.youtube-nocookie.com',//privacy mode
           playerVars: { 
             'autoplay': 1,
             'controls': 0, //hide controls
