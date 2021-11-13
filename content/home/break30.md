@@ -1,7 +1,7 @@
 ---
-title: I love creating
+title:
 active: true
-subtitle: Iteration - Prototyping - Reverse Engineering - Modulation
+subtitle:
 widget: blank
 headless: true
 weight: 30
