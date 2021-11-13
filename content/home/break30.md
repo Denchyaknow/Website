@@ -18,15 +18,14 @@ advanced:
 <!--{{% cta cta_link="https://discordapp.com/users/102797530168844288" cta_text="Contact via Discord" %}}-->
 <script>
   var tag = document.createElement('script');
-  tag.id = "video_frame";
   tag.src = "https://www.youtube.com/iframe_api";
 
   var firstScriptTag = document.getElementsByTagName('script')[0];
   firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-  var player;
+  var video_frame;
   function onYouTubeIframeAPIReady() {
-    player = new YT.Player('video_frame', {
+    video_frame = new YT.Player('video_frame', {
           height: '740',
           width: '1080',
           videoId: 'zsAvdJypnj8',
@@ -49,7 +48,7 @@ advanced:
           goToStart(event);
         }
         function onPlayerStateChange(event) {
-          var tm = player.getCurrentTime();
+          var tm = video_frame.getCurrentTime();
           if (event.data == YT.PlayerState.ENDED) {
             console.log("ENDED");
             goToStart(event);
@@ -62,6 +61,6 @@ advanced:
         }
         function goToStart(event) {
           event.target.seekTo(0,1);
-          player.playVideo();
+          video_frame.playVideo();
         }
 </script>
