@@ -110,7 +110,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .compbackground {
   background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-90/animated-svg-bg.svg)!important;
-  background-size: cover;
+  background-size: cover!important;
+  background-repeat: no-repeat;
+  height: calc(20vw + 30vh);
   background-repeat: no-repeat;
   height: 42vw;
   margin-bottom: -150px;
