@@ -1,4 +1,5 @@
 ---
+active: false
 title: I can create just about anything
 subtitle: 
 widget: blank
@@ -10,30 +11,22 @@ advanced:
 ---
 
 
-<div class="video_break">
-<iframe id="video_frame"
-        width="1000" height="640"
-        src="https://www.youtube.com/embed/zsAvdJypnj8?enablejsapi=1"
-        frameborder="0"
-        style="border: solid 4px #37474F"
-></iframe>
+<div class="videobox">
+  <div id="player"></div>
+  <div class="videocover"></div>
 </div>
 
-<!--{{% cta cta_link="https://discordapp.com/users/102797530168844288" cta_text="Contact via Discord" %}}-->
 <script>
   var tag = document.createElement('script');
-  tag.id = "video_background";
-  tag.src = "https://www.youtube.com/iframe_api";
-
-  var firstScriptTag = document.getElementsByTagName('script')[0];
-  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
-  var player;
-  function onYouTubeIframeAPIReady() {
-          player = new YT.Player('video_frame', {
-          //height: '360',
-          //width: '640',
-          //videoId: 'zsAvdJypnj8',
+        tag.src = "https://www.youtube.com/iframe_api";
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+        var player;
+        function onYouTubeIframeAPIReady() {
+          player = new YT.Player('player', {
+          height: '360',
+          width: '640',
+          videoId: 'zsAvdJypnj8',
           host: 'http://www.youtube-nocookie.com',//privacy mode
           playerVars: { 'controls': 0, //hide controls
                        'autohide': 1,
