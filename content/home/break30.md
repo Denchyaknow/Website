@@ -8,7 +8,7 @@ weight: 30
 design: 
   columns: '1'
 advanced:
-  css_class: transparent
+  css_class: video_body
 ---
 <div class="video_box">
   <div id="video_frame"></div>

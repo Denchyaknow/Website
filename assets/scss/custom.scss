@@ -55,7 +55,13 @@ iframe {
     z-index: -15;
     pointer-events: none;
 }
-
+.video_body {
+  top: -10vh;
+  z-index: -50;
+  background: none!important;
+  background-color: #DFDBE5;
+  height: calc(20vw + 30vh);
+}
 .video_box {
   height: calc(20vw + 30vh);
   z-index: -20;
@@ -84,6 +90,7 @@ iframe {
   left: 0;
   z-index: -20;
 }
+
 
 .transparent {
   z-index: -50;
