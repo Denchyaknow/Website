@@ -19,4 +19,6 @@ design:
   columns: '1'
   view: 3
   flip_alt_rows: false
+advanced:
+  css_class: projects_body
 ---

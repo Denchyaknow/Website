@@ -5,6 +5,8 @@ widget: blank
 weight: 40
 design:
   columns: '1'
+advanced:
+  css_class: transparent
 ---
 
 <div class="videobox">

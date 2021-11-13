@@ -2,7 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: I'm an XR Developer
+title: I'm Dencho
+subtitle: and I like minimal landing pages
 hero_media: 
 #design:
 #  background:
