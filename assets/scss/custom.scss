@@ -56,21 +56,20 @@ iframe {
     pointer-events: none;
 }
 .video_body {
-  top: -10vh;
   z-index: -50;
   background: none!important;
   background-color: #DFDBE5;
-  height: calc(14vw + 24vh);
+  height: 40vw;
 }
 .video_box {
-  height: calc(20vw + 30vh);
+  height: 100%;
   z-index: -20;
-  top: -10vh;
 }
 #video_frame {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 75vw;
+  top:-20vw;
 }
 .video_cover {
   width: 100%;
