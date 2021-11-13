@@ -23,6 +23,11 @@
   justify-content: center;
 }
 
+#break30 {
+  .container {
+    max-width: 100%!important;
+  }
+}
 
 //For particle on hero
 #particles-js {
