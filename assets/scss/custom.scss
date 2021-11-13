@@ -57,8 +57,9 @@ iframe {
 }
 
 .video_box {
-  height: 50vw;
+  height: calc(20vw + 30vh);
   z-index: -20;
+  top: -10vh;
 }
 #video_frame {
   position: absolute;
