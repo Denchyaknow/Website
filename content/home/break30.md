@@ -30,16 +30,14 @@ advanced:
 
   var player;
   function onYouTubeIframeAPIReady() {
-          player = new YT.Player('video_frame', {
-          //height: '360',
-          //width: '640',
-          //videoId: 'zsAvdJypnj8',
-          host: 'http://www.youtube-nocookie.com',//privacy mode
-          playerVars: { 'controls': 0, //hide controls
-                       'autohide': 1,
-                       'modestbranding': 1, //hide brand
-                       'showinfo': 0, //hide video info
-                       'mute' : 1 //video is muted
+    player = new YT.Player('video_frame', {
+          playerVars: { 
+            'autoplay': 1,
+            'controls': 0, //hide controls
+            'autohide': 1,
+            'modestbranding': 1, //hide brand
+            'showinfo': 0, //hide video info
+            'mute' : 1 //video is muted
                       },
           events: {
             'onReady': onPlayerReady,
@@ -53,8 +51,14 @@ advanced:
         function onPlayerStateChange(event) {
           var tm = player.getCurrentTime();
           if (event.data == YT.PlayerState.ENDED) {
+            console.log("ENDED");
             goToStart(event);
           }
+          if(event.data == YT.PlayerState.CUED){
+            console.log("CUED");
+            goToStart(event);
+          }
+
         }
         function goToStart(event) {
           event.target.seekTo(0,1);
