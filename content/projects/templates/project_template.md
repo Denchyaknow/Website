@@ -7,6 +7,7 @@ type: post
 reading_time: false
 profile: false
 commentable: false
+draft: true
 
 #tags: ["Prototype", "Tool"]
 ---
