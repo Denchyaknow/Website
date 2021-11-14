@@ -5,8 +5,9 @@ date: 2019-12-02
 type: post
 tags: ["Prototype", "Tool"]
 ---
-<video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/BoilingFragrantHoneybee-mobile.mp4" type="video/mp4"></video>
-
+<div class="video_thing">
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/BoilingFragrantHoneybee-mobile.mp4" type="video/mp4"></video>
+</div>
 <!--more-->
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
