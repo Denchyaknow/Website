@@ -40,14 +40,24 @@
 
   </script>
   <script>
+   
     $(document).ready(function(){
       $("iframe").children(".iframe__bottom").css({
         "display": "none",
         "border-style": "inset"
+      });
+      $('iframe .iframe__bottom').each(function(i){
+          i.css("display", "none");
+      });
     });
-        $('iframe .iframe__bottom').each(function(i){
-            i.css("display", "none");
-        });
+    $(document).onload(function(){
+      $("iframe").children(".iframe__bottom").css({
+        "display": "none",
+        "border-style": "inset"
+      });
+      $('iframe .iframe__bottom').each(function(i){
+          i.css("display", "none");
+      });
     });
 </script>
   </head>
