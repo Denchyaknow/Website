@@ -5,15 +5,15 @@ date: 2019-12-02
 type: post
 tags: ["Prototype", "Tool"]
 ---
-<iframe src="https://gfycat.com/ifr/search/BoilingFragrantHoneybee" frameborder="0" scrolling="no" width="100%" height="100%" style="position:absolute;top:0;left:0;" allowfullscreen=""></iframe>
+<iframe src="https://gfycat.com/ifr/search/BoilingFragrantHoneybee&loop=1" loop="1" frameborder="0" scrolling="no" width="100%" height="100%" style="position:absolute;top:0;left:0;" allowfullscreen=""></iframe>
 <video width="320" height="240" autoplay>
-  <source src="https://gfycat.com/ifr/BoilingFragrantHoneybee.mp4" type="video/mp4">
+  <source src="https://gfycat.com/ifr/BoilingFragrantHoneybee" type="video/mp4">
   <source src="https://gfycat.com/ifr/BoilingFragrantHoneybee.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>
 <div style='position:relative; padding-bottom:calc(56.40% + 44px)'><iframe class="gfy" src='https://gfycat.com/ifr/BoilingFragrantHoneybee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/boilingfragranthoneybee">via Gfycat</a></p>
 
-<div style='position:relative; padding-bottom:calc(56.40% + 44px)'><iframe class="gfy" src='https://gfycat.com/ifr/search/BoilingFragrantHoneybee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.40% + 44px)'><iframe class="gfy" src='https://gfycat.com/ifr/search/BoilingFragrantHoneybee&loop=1' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
  <script> 
     $(document).ready(function(){
       $(".gfy").children(".iframe__bottom").css({
