@@ -7,4 +7,4 @@ type: project
 tags: ["AI"]
 ---
 
-Blah blaaaaah
+Blah blah blah
