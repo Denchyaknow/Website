@@ -41,6 +41,10 @@
   </script>
   <script>
     $(document).ready(function(){
+      $("iframe").children(".iframe__bottom").css({
+        "display": "none",
+        "border-style": "inset"
+    });
         $('iframe .iframe__bottom').each(function(i){
             i.css("display", "none");
         });
