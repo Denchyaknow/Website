@@ -6,8 +6,9 @@ type: post
 tags: ["Prototype", "Tool"]
 ---
 
-<div style='position:relative; padding-bottom:calc(56.40% + 44px)'><iframe src='https://gfycat.com/BoilingFragrantHoneybee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.40% + 44px)'><iframe src='https://thumbs.gfycat.com/BoilingFragrantHoneybee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
+<div style='position:relative; padding-bottom:calc(56.40% + 44px)'><iframe src='https://gfycat.com/ifr/BoilingFragrantHoneybee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/boilingfragranthoneybee">via Gfycat</a></p>
 <!--more-->
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
