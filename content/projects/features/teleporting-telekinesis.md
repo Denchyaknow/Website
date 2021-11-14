@@ -6,9 +6,8 @@ type: post
 reading_time: false
 profile: false
 commentable: false
-draft: true
 
-#tags: ["Prototype", "Tool"]
+tags: ["Prototype", "Feature", "VR", "XR"]
 ---
 
 <div class="video_thing">
