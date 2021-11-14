@@ -21,10 +21,6 @@ tags: ["Prototype", "Tool"]
         "border-style": "inset"
       });
     });
-    $("iframe").load(function() {
-        $("iframe").contents().find(".iframe__bottom").css('border' , '#000 1px solid');
-        
-      });
 </script>
 <!--more-->
 
