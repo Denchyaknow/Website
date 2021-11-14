@@ -58,6 +58,13 @@ iframe {
 .video_thing {
   position:relative; 
   padding-bottom:calc(108.26% + 44px);
+  width: 100%;
+  video{
+    max-height: auto!important;
+    max-width: 100%!important;
+    width: 100%;
+    height: auto;
+  }
 }
 .video_body {
   z-index: -50;
