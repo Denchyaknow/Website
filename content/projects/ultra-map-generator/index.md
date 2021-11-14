@@ -2,6 +2,7 @@
 title: Ultra Map Generator
 subtitle: A 2D Map Generator I made that uses and demonstrates the A* pathfinding algorithm
 date: 2019-12-02
+type: post
 tags: ["Prototype", "Tool"]
 ---
 
