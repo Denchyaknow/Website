@@ -5,9 +5,9 @@ date: 2019-12-02
 type: post
 tags: ["Prototype", "Tool"]
 ---
-<video controls="" autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/FocusedSaltyCranefly-mobile.mp4" type="video/mp4"></video>
+<video controls="" muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/FocusedSaltyCranefly-mobile.mp4" type="video/mp4"></video>
 
-<video width="320" height="240" autoplay loop="1">
+<video width="320" height="240" autoplay loop="1" muted >
   <source src="https://thumbs.gfycat.com/FocusedSaltyCranefly-mobile.mp4" type="video/mp4">
   <source src="https://gfycat.com/ifr/BoilingFragrantHoneybee.ogg" type="video/ogg">
 Your browser does not support the video tag.
