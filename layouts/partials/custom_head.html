@@ -20,4 +20,23 @@
     <!--link href="assets/demo.css" rel="stylesheet"-->
     <!--script src="assets/json-preview.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /-->
+  
+    <script> 
+    var i, frames;
+    frames = document.getElementsByTagName("iframe");
+    for (i = 0; i < frames.length; ++i) {
+      // The iFrame
+      //frames[i].style.display = "none";
+      // The corresponding DIV
+      //getElementById(frames[i].id + "-L").style.display = "";
+      frames[i].onload = function() {
+        var iFrameDOM = frames[i].contents();
+        //$("frames[i]").contents();
+        iFrameDOM.find(".iframe__bottom").css("display", "none");
+         //getElementById(frames[i].id + "-L").style.display = "none";
+         //frames[i].style.display = "";
+      }
+   }
+
+  </script>
   </head>
