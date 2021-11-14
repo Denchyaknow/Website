@@ -56,7 +56,8 @@ iframe {
     pointer-events: none;
 }
 .video_thing {
-  position:relative; padding-bottom:calc(108.26% + 44px)
+  position:relative; 
+  padding-bottom:calc(108.26% + 44px);
 }
 .video_body {
   z-index: -50;
