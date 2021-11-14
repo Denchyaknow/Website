@@ -6,6 +6,7 @@ weight: 20
 tags:
   - Prototype
 ---
+{{ template "https://gfycat.com/offbeatselfrelianthoneycreeper" . }}
 
 Build a foundation in Python.
 
