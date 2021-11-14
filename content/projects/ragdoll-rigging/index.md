@@ -4,6 +4,10 @@ subtitle: Some examples on different types of rigs I made for various projects
 date: 2019-12-02
 type: post
 tags: ["Prototype", "Tool"]
+reading_time: false
+profile: false
+commentable: false
+
 ---
 
 <div class="video_thing">

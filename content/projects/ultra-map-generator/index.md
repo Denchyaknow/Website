@@ -4,6 +4,10 @@ subtitle: A 2D Map Generator I made that uses and demonstrates the A* pathfindin
 date: 2019-12-02
 type: post
 tags: ["Prototype", "Tool"]
+reading_time: false
+profile: false
+commentable: false
+
 ---
 <div class="video_thing">
     <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/BoilingFragrantHoneybee-mobile.mp4" type="video/mp4"></video>

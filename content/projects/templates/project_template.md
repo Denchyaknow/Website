@@ -1,8 +1,13 @@
 ---
 title: ProjectName
+active: false
 subtitle: Project SubTitle
 date: 2019-12-02
 type: post
+reading_time: false
+profile: false
+commentable: false
+
 #tags: ["Prototype", "Tool"]
 ---
 
