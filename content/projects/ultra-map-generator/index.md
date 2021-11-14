@@ -6,7 +6,7 @@ type: post
 tags: ["Prototype", "Tool"]
 ---
 <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/BoilingFragrantHoneybee.mp4" type="video/mp4"></video>
-
+<video muted autoplay="" name="media" loop=""><source src="https://gfycat.com/boilingfragranthoneybee" type="video/mp4"></video>
 <video width="320" height="240" autoplay loop="1" muted >
   <source src="https://thumbs.gfycat.com/FocusedSaltyCranefly-mobile.mp4" type="video/mp4">
   <source src="https://gfycat.com/ifr/BoilingFragrantHoneybee.ogg" type="video/ogg">
