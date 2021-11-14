@@ -6,7 +6,7 @@ type: post
 tags: ["Prototype", "Tool"]
 ---
 
-<div style='position:relative; padding-bottom:calc(56.40% + 44px)'><iframe src='https://thumbs.gfycat.com/BoilingFragrantHoneybee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.40% + 44px)'><iframe src='https://thumbs.gfycat.com/BoilingFragrantHoneybee-mobile.mp4' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 <div style='position:relative; padding-bottom:calc(56.40% + 44px)'><iframe src='https://gfycat.com/ifr/BoilingFragrantHoneybee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/boilingfragranthoneybee">via Gfycat</a></p>
 <!--more-->
