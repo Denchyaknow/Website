@@ -1,6 +1,7 @@
 ---
 title: Latest News
 
+tags: ["VR", "AR"]
 # View.
 #   1 = List
 #   2 = Compact
