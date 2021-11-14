@@ -1,9 +1,9 @@
 ---
 widget: tag_cloud
 headless: true  # This file represents a page section.
-active: true
+active: false
 # ... Put Your Section Options Here (title etc.) ...
-
+weight: 50
 content:
   # Choose the taxonomy from `config.yaml` to display (e.g. tags, categories)
   taxonomy: tags
