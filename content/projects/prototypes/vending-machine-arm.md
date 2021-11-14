@@ -12,7 +12,7 @@ commentable: false
 ---
 
 <div class="video_thing">
-    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/flimsyachingdikkops-mobile.mp4" type="video/mp4"></video>
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/FlimsyAchingDikkops-mobile.mp4" type="video/mp4"></video>
 </div>
 
 <!--more-->
