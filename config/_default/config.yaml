@@ -66,12 +66,6 @@ taxonomies:
   publication_type: publication_types
   author: authors
 related:
-  book: false
-  page: false
-  post: false
-  project: false
-  publication: false
-  event: false
   threshold: 80
   includeNewer: false
   toLower: false
