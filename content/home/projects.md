@@ -6,7 +6,7 @@ weight: 35
 title: I made things
 subtitle:
 content:
-  page_type: project
+  page_type: post
   filter_default: 0
 # Uncomment to only show content with specific tags
 #  filters:
