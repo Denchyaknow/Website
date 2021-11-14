@@ -66,9 +66,15 @@ taxonomies:
   publication_type: publication_types
   author: authors
 related:
+  book: false
+  page: false
+  post: false
+  project: false
+  publication: false
+  event: false
   threshold: 80
-  includeNewer: true
-  toLower: true
+  includeNewer: false
+  toLower: false
   indices:
     - name: tags
       weight: 100
