@@ -5,6 +5,7 @@ date: 2019-12-02
 type: post
 tags: ["Prototype", "Tool"]
 ---
+<video controls="" autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/FocusedSaltyCranefly-mobile.mp4" type="video/mp4"></video>
 
 <video width="320" height="240" autoplay loop="1">
   <source src="https://thumbs.gfycat.com/FocusedSaltyCranefly-mobile.mp4" type="video/mp4">
