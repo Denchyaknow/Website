@@ -20,9 +20,23 @@ I took my old prototype and added some basic interaction relative to the thumb a
 <!--more-->
 
 <div class="video_thing">
-    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/ThisShadowyKiskadee-mobile.mp4" type="video/mp4"></video>
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/AdorableGlossyDachshund-mobile.mp4" type="video/mp4"></video>
 </div>
 
 <div class="video_thing">
-    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/ForkedVigorousDolphin-mobile.mp4" type="video/mp4"></video>
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/DefiniteFriendlyKingbird-mobile.mp4" type="video/mp4"></video>
+</div>
+
+<div class="video_thing">
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/AnyEvergreenCaecilian-mobile.mp4" type="video/mp4"></video>
+</div>
+
+<div class="video_thing">
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/SaneHealthyAfricanelephant-mobile.mp4" type="video/mp4"></video>
+</div>
+
+<p> Just for fun. </p>
+
+<div class="video_thing">
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/FakeSolidIndianjackal-mobile.mp4" type="video/mp4"></video>
 </div>
