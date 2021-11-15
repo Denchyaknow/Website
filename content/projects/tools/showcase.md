@@ -1,10 +1,12 @@
 ---
 title: Tools I made
 date: '2021-01-01'
-type: project
+type: post
 weight: 20
+draft: true
 tags:
   - Prototype
+
 ---
 
 Build a foundation in Python.
