@@ -16,3 +16,7 @@ commentable: false
 </div>
 
 <!--more-->
+
+<div class="video_thing">
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/MeatyExhaustedCicada-mobile.mp4" type="video/mp4"></video>
+</div>
