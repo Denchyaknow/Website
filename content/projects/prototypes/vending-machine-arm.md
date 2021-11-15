@@ -8,7 +8,7 @@ reading_time: false
 profile: false
 commentable: false
 
-#tags: ["Prototype", "Tool"]
+tags: ["Prototype", "VR"]
 ---
 
 <div class="video_thing">

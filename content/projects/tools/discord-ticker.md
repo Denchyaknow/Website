@@ -11,7 +11,7 @@ tags: ["Prototype", "Tool", "UI"]
 ---
 
 <div class="video_thing">
-    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/ClassicCavernousElephantbeetle-mobile.mp4" type="video/mp4"></video>
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/LightheartedSneakyAmurratsnake-mobile.mp4" type="video/mp4"></video>
 </div>
 
 <p> A tool I made to dynamically update your Discord activity.
@@ -20,5 +20,5 @@ tags: ["Prototype", "Tool", "UI"]
 <!--more-->
 
 <div class="video_thing">
-    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/LightheartedSneakyAmurratsnake-mobile.mp4" type="video/mp4"></video>
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/ClassicCavernousElephantbeetle-mobile.mp4" type="video/mp4"></video>
 </div>

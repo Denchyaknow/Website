@@ -1,13 +1,14 @@
 ---
-title: Ragdoll Rigging
-subtitle: Some examples on different types of rigs I made for various projects
+title: Procedural Ragdoll Animations
+subtitle: Characters that procedurally move to physics and animations
 date: 2019-12-02
 type: post
-tags: ["Prototype", "Tool"]
+
 reading_time: false
 profile: false
 commentable: false
 
+tags: ["Prototype", "VR"]
 ---
 
 <div class="video_thing">
