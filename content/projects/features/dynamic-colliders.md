@@ -14,7 +14,7 @@ tags: ["Prototype", "Feature", "VR", "XR"]
     <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/LoneSnivelingAtlanticridleyturtle-mobile.mp4" type="video/mp4"></video>
 </div>
 
-Bending a collider to my will.
+I'm a Collider Bender!
 
 <!--more-->
 
@@ -37,3 +37,4 @@ The Dynamic Collider has a bunch of toggles for stuff like locking specific axis
 <div class="video_thing">
     <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/CluelessJauntyBunny-mobile.mp4" type="video/mp4"></video>
 </div>
+
