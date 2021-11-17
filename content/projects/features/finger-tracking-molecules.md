@@ -15,7 +15,7 @@ tags: ["Prototype", "Feature", "VR", "XR"]
 </div>
 
 <p> 
-I brought molecule interaction to VR, allowing remote students to learn indepth chemistry.
+I brought molecule interaction to VR, allowing remote students to learn chemistry.
 </p>
 
 <!--more-->

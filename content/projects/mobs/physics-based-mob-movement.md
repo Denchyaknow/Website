@@ -14,7 +14,7 @@ tags: ["Prototype", "VR", "Mobs"]
     <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/NimbleBeneficialHorsefly-mobile.mp4" type="video/mp4"></video>
 </div>
 
-<p> Making mobs attack with physics is really satisfying. </p>
+<p> These mobs move using physics! </p>
 
 <!--more-->
 
