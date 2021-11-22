@@ -55,13 +55,18 @@
   }
 }
 //Dark Mode
+.dark h1 {
+  color: #7d51ff!important;
+}
 .dark a {
   color: #7d51ff!important;
 }
 .dark p {
   color: #63c9ff!important;
 }
-
+h1 {
+  color: #63c9ff!important;
+}
 a {
   color: #7d51ff!important;
   //color: #270856;
