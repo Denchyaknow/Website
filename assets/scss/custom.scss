@@ -46,6 +46,21 @@
 }
 
 //Project Card Styling
+
+//Button Background of active filter
+.btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
+  background-color: #123c7080!important;
+}
+//Button Background
+.btn-primary {
+  background-color: #252b3275!important;
+}
+.dark .card {
+  background: #1e31436e;
+}
+.card {
+  background: #17191c;
+}
 .card-text {
   padding: 0.02rem 0.5em!important;
   h4 {
