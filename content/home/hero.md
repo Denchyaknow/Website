@@ -12,7 +12,7 @@ hero_media:
 #    gradient_end: 'rgb(68, 43, 72)'
 #    text_color_light: true
 cta:
-  url: course/
+  url: home/
   label: This button will destroy your device
   icon_pack: fas
   icon: power-off
@@ -27,49 +27,6 @@ advanced:
 
 <div id="particles-js"></div>
 <div class="particleback"></div>
-<!--div id="tsparticles"></div-->
-<!--div class="videobox" >
-<div id="player"></div>
-</div-->
-<!--script>
-  var tag = document.createElement('script');
-        tag.src = "https://www.youtube.com/iframe_api";
-        var firstScriptTag = document.getElementsByTagName('script')[0];
-        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-        var player;
-        function onYouTubeIframeAPIReady() {
-          player = new YT.Player('player', {
-          height: '360',
-          width: '640',
-          videoId: 'zsAvdJypnj8',
-          host: 'http://www.youtube-nocookie.com',//privacy mode
-          playerVars: { 'controls': 0, //hide controls
-                       'autohide': 1,
-                       'modestbranding': 1, //hide brand
-                       'showinfo': 0, //hide video info
-                       'mute' : 1 //video is muted
-                      },
-          events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange
-          }
-        });
-        }
-        function onPlayerReady(event) {
-          goToStart(event);
-        }
-        function onPlayerStateChange(event) {
-          var tm = player.getCurrentTime();
-          if (event.data == YT.PlayerState.ENDED) {
-            goToStart(event);
-          }
-        }
-        function goToStart(event) {
-          event.target.seekTo(0,1);
-          player.playVideo();
-        }
-</script-->
-There a break right here...
 
 <!--a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a-->
 
@@ -78,12 +35,17 @@ There a break right here...
 
 <div class="headline">
 <h1 class="punchline">
-    Boom Punchline
+    I'm a front-end developer that specializes in XR
 </h1>
-<p class="tagline">
-WTF IS A TAGLINE
-</p>
+  <p class="tagline">
+    I use Unity 3D and C# to create features and experiences
+  </p>
 </div>
+
+<div class="video_hero">
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/ChillyThunderousIberiannase-mobile.mp4" type="video/mp4"></video>
+</div>
+
 
 <!--script>
 //particlesJS.load('particles-js', 'assets/particlesjs-config.json', function() {
@@ -96,7 +58,8 @@ WTF IS A TAGLINE
 });
 </script>
 <script>
-		ScrollReveal().reveal('.headline', { delay: 500 });
-    ScrollReveal().reveal('.tagline', { delay: 1500 });
-    ScrollReveal().reveal('.punchline', { delay: 2000 });
+    ScrollReveal().reveal('.video_hero', { delay: 500, reset: true });
+		ScrollReveal().reveal('.headline', { delay: 500, reset: true });
+    ScrollReveal().reveal('.tagline', { delay: 1000, reset: true });
+    ScrollReveal().reveal('.punchline', { delay: 1500, reset: true });
 </script>
