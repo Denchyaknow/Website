@@ -30,10 +30,11 @@ advanced:
         A front-end XR Developer
     </p>
     <a class="intro_2">
-        <span>
-        {{% cta cta_link="#stats" cta_text="Contact via Discord" %}}
-        </span>
+        {{% cta cta_link="#stats" cta_text="My Stats" %}}
     </a>
+     <span class="intro_2">
+        {{% cta cta_link="#stats" cta_text="My Stats" %}}
+    </>
 </div>
 [Go to stats]](#stats)
 <script>
