@@ -45,8 +45,11 @@
   top: 0; right: 0; bottom: 0; left: 0;
 }
 
-$l_primaryBackground: #6930C3;
-$l_secondaryBackground: #41006686;
+$mainBackground: #6930C3;
+$cardBackground: #41006686;
+$buttonBackground: #341c55;
+$buttonBackgroundActive: #315684;
+$sectionBackground: #442b48;
 $l_primaryText: #86C3E9;
 $l_secondaryText: #5390D9;
 $l_primaryLink: #80FFDB;
@@ -54,23 +57,23 @@ $l_secondaryLink: #48BFE3;
 
 //Main Background
 body {
-  background-color: $l_primaryBackground!important;
+  background-color: $mainBackground!important;
 }
 //Project Card Styling
 
 //Button Background of active filter
 
 .btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
-  background-color: $l_secondaryBackground!important;
+  background-color: $buttonBackgroundActive!important;
 }
 //Button Background
 
 .btn-primary {
-  background-color: $l_secondaryBackground!important;
+  background-color: $buttonBackground!important;
 }
 
 .card {
-  background: $l_secondaryBackground;
+  background: $cardBackground;
 }
 .card-text {
   padding: 0.02rem 0.5em!important;
