@@ -20,14 +20,15 @@ advanced:
 
 <div class="video_hero">
     <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/ChillyThunderousIberiannase-mobile.mp4" type="video/mp4"></video>
-    <div class="video_cover">
-        <h1 class="punchline">
-            I'm a front-end developer that specializes in XR
-        </h1>
-        <p class="tagline">
-            I use Unity 3D and C# to create features and experiences
-        </p>
-    </div>
+    <div class="video_cover"></div>
+</div>
+<div class="headline">
+    <h1 class="punchline">
+        I'm a front-end developer that specializes in XR
+    </h1>
+    <p class="tagline">
+        I use Unity 3D and C# to create features and experiences
+    </p>
 </div>
 
 <script>
