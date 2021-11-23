@@ -23,18 +23,22 @@ advanced:
     <div class="video_cover"></div>
 </div>
 <div class="headline">
-    <h1 class="punchline">
-        I'm a front-end developer that specializes in XR
+    <h1 class="intro_0">
+        I'm Dencho
     </h1>
-    <p class="tagline">
-        I use Unity 3D and C# to create features and experiences
+    <p class="intro_1">
+        A front-end XR Developer
+    </p>
+    <p class="intro_2">
+        {{% cta cta_link="https://discordapp.com/users/102797530168844288" cta_text="Contact via Discord" %}}-->
     </p>
 </div>
 
 <script>
-    ScrollReveal().reveal('.video_hero', { delay: 500, reset: true });
-    ScrollReveal().reveal('.tagline', { delay: 1000, reset: true });
-    ScrollReveal().reveal('.punchline', { delay: 1500, reset: true });
+    ScrollReveal().reveal('.video_hero', { delay: 500, origin: 'top', reset: true });
+    ScrollReveal().reveal('.intro_0', { delay: 750, origin: 'bottom', reset: true });
+    ScrollReveal().reveal('.intro_1', { delay: 1000, origin: 'bottom', reset: true });
+    ScrollReveal().reveal('.intro_2', { delay: 1250, origin: 'bottom', reset: true });
 </script>
 
 <!--{{% cta cta_link="https://discordapp.com/users/102797530168844288" cta_text="Contact via Discord" %}}-->
