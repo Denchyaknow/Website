@@ -18,18 +18,14 @@ content:
       tag: '*'
     - name: XR
       tag: VR, AR
-    - name: AI
-      tag: AI
+    - name: Mobs
+      tag: Mobs
     - name: Tools
       tag: Tool
     - name: Features
       tag: Feature
     - name: Prototypes
       tag: Prototype
-    - name: AR
-      tag: AR
-    - name: VR
-      tag: VR
 design:
   columns: '1'
   view: 3

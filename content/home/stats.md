@@ -18,7 +18,6 @@ advanced:
   </div>
 </div>
 <script>
-    ScrollReveal().reveal('.codestats_top', { delay: 300,origin: 'left', reset: true });
-    ScrollReveal().reveal('.codestats_latest', { delay: 500,origin: 'left', reset: true });
-    ScrollReveal().reveal('.codestats_most', { delay: 750,origin: 'left', reset: true });
+    ScrollReveal().reveal('.codestats_block', { delay: 300,origin: 'bottom', reset: true });
+    
 </script>
