@@ -51,6 +51,7 @@ $buttonBackground: #341c55;
 $buttonBackgroundActive: #315684;
 $sectionBackground: #442b48;
 $clearBackground: #00000000;
+$iconColor: #ffe64a;
 $l_primaryText: #74caff;
 $l_secondaryText: #6fd5ff;
 $l_primaryLink: #80FFDB;
@@ -82,6 +83,12 @@ body {
 }
 
 //Titles
+.navbar-brand a {
+  color: $l_secondaryLink!important;
+}
+.nav-item a {
+  color: $l_secondaryLink!important;
+}
 h1 {
   color: $l_primaryText!important;
 }
@@ -89,14 +96,11 @@ a {
   color: $l_primaryLink!important;
   //color: #270856;
 }
-.navbar-brand a {
-  color: $l_secondaryLink!important;
-}
-.nav-item a {
-  color: $l_secondaryLink!important;
-}
 p {
   color: $l_secondaryText!important;
+}
+i {
+  color: $iconColor!important;
 }
 
 //For video stuff
