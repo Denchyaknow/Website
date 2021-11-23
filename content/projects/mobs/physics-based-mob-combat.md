@@ -19,6 +19,11 @@ tags: ["Prototype", "VR", "Mobs"]
 <!--more-->
 
 <div class="video_thing">
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/TimelyAgileHamadryad-mobile.mp4" type="video/mp4"></video>
+</div>
+
+
+<div class="video_thing">
     <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/PettyOnlyArchaeocete-mobile.mp4" type="video/mp4"></video>
 </div>
 
@@ -32,4 +37,12 @@ I wrote a PID controller for mob physics bodies that allows them to dynamically 
 
 <div class="video_thing">
     <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/TimelyAgileHamadryad-mobile.mp4" type="video/mp4"></video>
+</div>
+
+<p> 
+For fun I decided to make some flying mobs attack to the beat of a song.
+</p>
+
+<div class="video_thing">
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/RequiredNecessaryBluefintuna-mobile.mp4" type="video/mp4"></video>
 </div>

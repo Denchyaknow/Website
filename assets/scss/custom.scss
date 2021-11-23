@@ -83,12 +83,7 @@ body {
 }
 
 //Titles
-.navbar-brand a {
-  color: $l_secondaryLink!important;
-}
-.nav-item a {
-  color: $l_secondaryLink!important;
-}
+
 h1 {
   color: $l_primaryText!important;
 }
@@ -101,6 +96,12 @@ p {
 }
 i {
   color: $iconColor!important;
+}
+.navbar-brand a {
+  color: $l_secondaryLink!important;
+}
+.nav-item a {
+  color: $l_secondaryLink!important;
 }
 
 //For video stuff

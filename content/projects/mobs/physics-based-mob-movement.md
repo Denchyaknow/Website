@@ -10,22 +10,14 @@ commentable: false
 
 tags: ["Prototype", "VR", "Mobs"]
 ---
-<div class="video_thing">
-    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/NimbleBeneficialHorsefly-mobile.mp4" type="video/mp4"></video>
-</div>
+
 
 <p> These mobs move using physics! </p>
 
 <!--more-->
 
-<p> To acomplish this I first make the mobs move to waypoints. These waypoints are pretty simple, if one is linked to another the mob will automagically set the next waypoint as its current and continue its patrol </p>
-
-<div class="video_thing">
-    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/TimelyAgileHamadryad-mobile.mp4" type="video/mp4"></video>
-</div>
-
 <p>
-This approach is simple yet effective, specially when you make the waypoints move dynamically.
+Using waypoints is simple yet effective, specially when you make the waypoints move dynamically.
 </p>
 
 <div class="video_thing">
@@ -50,12 +42,4 @@ By placing a waypoint map on a player or other moving object, we can begin to se
 
 <div class="video_thing">
     <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/ElectricFamiliarGalapagosmockingbird-mobile.mp4" type="video/mp4"></video>
-</div>
-
-<p> 
-For fun I decided to make some flying mobs attack to the beat of a song.
-</p>
-
-<div class="video_thing">
-    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/RequiredNecessaryBluefintuna-mobile.mp4" type="video/mp4"></video>
 </div>
