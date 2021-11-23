@@ -43,5 +43,5 @@ advanced:
   css_class: projects_body
 ---
 <script>
-    ScrollReveal().reveal('.card', { delay: 200, origin: 'bottom', reset: true });
+    ScrollReveal().reveal('.project-card', { delay: 200, origin: 'bottom', reset: true });
 </script>
