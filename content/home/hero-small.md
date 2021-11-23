@@ -12,26 +12,21 @@ advanced:
 ---
 <div id="particles-js"></div>
 <div class="particleback"></div>
-
-<script>
-  particlesJS.load('particles-js', 'assets/particlesjs1.json', function() {
-  console.log('callback - particles.js config loaded');
-});
-</script>
-
 <div class="video_hero">
     <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/ChillyThunderousIberiannase-mobile.mp4" type="video/mp4"></video>
     <div class="video_cover"></div>
 </div>
-
 <div class="intro">
     <h1 class="intro_0"> I'm Dencho </h1>
     <p class="intro_1"> <span> A front-end XR Developer </span></p>
     <div class="intro_2"> {{% cta cta_link="#stats" cta_text="My Stats" %}} </div>
 </div>
-
 <script>
-    //ScrollReveal().reveal('.video_hero', { delay: 500, origin: 'top', reset: true });
+  particlesJS.load('particles-js', 'assets/particlesjs1.json', function() {
+  console.log('callback - particles.js config loaded');
+});
+</script>
+<script>
     ScrollReveal().reveal('.intro_0', { delay: 750, origin: 'bottom', reset: true });
     ScrollReveal().reveal('.intro_1', { delay: 1000, origin: 'bottom', reset: true });
     ScrollReveal().reveal('.intro_2', { delay: 1250, origin: 'bottom', reset: true });
