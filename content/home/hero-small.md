@@ -17,23 +17,14 @@ advanced:
   console.log('callback - particles.js config loaded');
 });
 </script>
-<div class="video_box">
-  <div id="video_frame">
-   <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/ChillyThunderousIberiannase-mobile.mp4" type="video/mp4"></video>
-  </div>
-  <div class="video_cover">
-  <div class="headline">
-<h1 class="punchline">
-    I'm a front-end developer that specializes in XR
-</h1>
-  <p class="tagline">
-    I use Unity 3D and C# to create features and experiences
-  </p>
-</div></div>
+
+<div class="video_hero">
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/ChillyThunderousIberiannase-mobile.mp4" type="video/mp4"></video>
 </div>
+
 <script>
     ScrollReveal().reveal('.video_hero', { delay: 500, reset: true });
-		ScrollReveal().reveal('.headline', { delay: 500, reset: true });
+    ScrollReveal().reveal('.headline', { delay: 500, reset: true });
     ScrollReveal().reveal('.tagline', { delay: 1000, reset: true });
     ScrollReveal().reveal('.punchline', { delay: 1500, reset: true });
 </script>
