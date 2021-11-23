@@ -30,7 +30,7 @@ advanced:
         A front-end XR Developer
     </p>
     <p class="intro_2">
-        {{% cta cta_link="https://discordapp.com/users/102797530168844288" cta_text="Contact via Discord" %}}-->
+        {{% cta cta_link="https://discordapp.com/users/102797530168844288" cta_text="Contact via Discord" %}}>
     </p>
 </div>
 

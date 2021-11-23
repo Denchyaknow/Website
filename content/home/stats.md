@@ -19,5 +19,4 @@ advanced:
 </div>
 <script>
     ScrollReveal().reveal('.codestats_block', { delay: 300, origin: 'bottom', reset: true });
-    
 </script>
