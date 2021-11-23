@@ -67,10 +67,10 @@ body {
 
 //Button Background of active filter
 .dark .btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
-  background-color: $d_primaryLink!important;
+  background-color: $l_secondaryBackground!important;
 }
 .btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
-  background-color: $l_primaryLink!important;
+  background-color: $d_secondaryBackground!important;
 }
 //Button Background
 .dark .btn-primary {
@@ -96,7 +96,7 @@ body {
 }
 //Links
 .dark a {
-  color: $d_secondaryLink!important;
+  color: $d_primaryLink!important;
 }
 //Normal White Text
 .dark p {
@@ -108,7 +108,7 @@ h1 {
   color: $l_primaryText!important;
 }
 a {
-  color: $l_secondaryLink!important;
+  color: $l_primaryLink!important;
   //color: #270856;
 }
 p {
