@@ -2,7 +2,7 @@
 widget: portfolio
 active: true
 headless: true
-weight: 15
+weight: 45
 title: I made things
 subtitle:
 content:

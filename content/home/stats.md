@@ -4,7 +4,7 @@ active: true
 subtitle: These stats are calculated and dynamically generated from code::stats
 widget: blank
 headless: true
-weight: 25
+weight: 35
 design: 
   columns: '1'
 advanced:
