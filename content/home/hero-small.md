@@ -27,14 +27,16 @@ advanced:
         I'm Dencho
     </h1>
     <p class="intro_1">
+    <span>
         A front-end XR Developer
+    </span>
     </p>
     <a class="intro_2">
         {{% cta cta_link="#stats" cta_text="My Stats" %}}
     </a>
-     <span class="intro_2">
+     <span>
         {{% cta cta_link="#stats" cta_text="My Stats" %}}
-    </>
+    </span>
 </div>
 <script>
     //ScrollReveal().reveal('.video_hero', { delay: 500, origin: 'top', reset: true });
