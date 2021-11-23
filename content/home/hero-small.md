@@ -18,8 +18,9 @@ advanced:
 </div>
 <div class="intro">
     <h1 class="intro_0"> I'm Dencho </h1>
-    <p class="intro_1"> <span> A front-end XR Developer </span></p>
+    <p class="intro_1"> A front-end XR Developer</p>
     <div class="intro_2"> {{% cta cta_link="#stats" cta_text="My Stats" %}} </div>
+    <h1 class="intro_0"> NOTICE: This website is still under development</h1>
 </div>
 <script>
   particlesJS.load('particles-js', 'assets/particlesjs1.json', function() {
