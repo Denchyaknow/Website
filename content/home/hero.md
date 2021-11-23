@@ -1,6 +1,7 @@
 ---
 widget: hero
 headless: true
+active: false
 weight: 10
 title: I'm Dencho
 subtitle: and I like minimal landing pages
