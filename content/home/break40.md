@@ -8,9 +8,9 @@ weight: 40
 design: 
   columns: '1'
 advanced:
-  css_class: transparent
+  css_class: video_section
 ---
-<div class="drop-shadow">
-<div class="glass"></div>
-  <span>GLASS</span>
-  </div>
+<div class="video_hero">
+    <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/InsistentUnripeAmericantoad-mobile.mp4" type="video/mp4"></video>
+    <div class="video_cover"></div>
+</div>
