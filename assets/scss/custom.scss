@@ -45,19 +45,12 @@
   top: 0; right: 0; bottom: 0; left: 0;
 }
 
-$d_primaryBackground: #442F62;
-$d_secondaryBackground: #5c43805f;
-$d_primaryText: #9BBBD1;
-$d_secondaryText: #7B9CB3;
-$d_primaryLink: #FFF7A9;
-$d_secondaryLink: #BCB35A;
-
-$l_primaryBackground: #2B485D;
-$l_secondaryBackground: #3e61795a;
-$l_primaryText: #B6A0D6;
-$l_secondaryText: #9982BB;
-$l_primaryLink: #FFDAA9;
-$l_secondaryLink: #BC915A;
+$l_primaryBackground: #341061;
+$l_secondaryBackground: #112a6084;
+$l_primaryText: #8599C4;
+$l_secondaryText: #566FA4;
+$l_primaryLink: #A184C6;
+$l_secondaryLink: #7956A6;
 
 //Main Background
 body {
@@ -66,22 +59,16 @@ body {
 //Project Card Styling
 
 //Button Background of active filter
-.dark .btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
+
+.btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
   background-color: $l_secondaryBackground!important;
 }
-.btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
-  background-color: $d_secondaryBackground!important;
-}
 //Button Background
-.dark .btn-primary {
-  background-color: $d_secondaryBackground!important;
-}
+
 .btn-primary {
   background-color: $l_secondaryBackground!important;
 }
-.dark .card {
-  background: $d_secondaryBackground;
-}
+
 .card {
   background: $l_secondaryBackground;
 }
@@ -89,20 +76,7 @@ body {
   padding: 0.02rem 0.5em!important;
   
 }
-//Dark Mode 
-//Titles
-.dark h1 {
-  color: $d_primaryText!important;
-}
-//Links
-.dark a {
-  color: $d_primaryLink!important;
-}
-//Normal White Text
-.dark p {
-  color: $d_secondaryText!important;
-}
-//White Mode
+
 //Titles
 h1 {
   color: $l_primaryText!important;
