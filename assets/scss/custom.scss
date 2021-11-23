@@ -50,6 +50,7 @@ $cardBackground: #1c112a94;
 $buttonBackground: #341c55;
 $buttonBackgroundActive: #315684;
 $sectionBackground: #442b48;
+$clearBackground: #00000000;
 $l_primaryText: #74caff;
 $l_secondaryText: #6fd5ff;
 $l_primaryLink: #80FFDB;
@@ -241,7 +242,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .stats_top {
   bottom:-2px;
-  background: $sectionBackground!important;
+  background: $clearBackground!important;
   overflow:hidden;
   position:relative;
   }
@@ -277,7 +278,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   
 .stats_bottom {
   top: -2px;
-  background: $sectionBackground!important;
+  background: $clearBackground!important;
   overflow:hidden;
   position:relative;
   }
@@ -320,7 +321,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .skills_top {
   bottom:-2px;
-  background: $sectionBackground!important;
+  background: $clearBackground!important;
   overflow:hidden;
   position:relative;
   }
@@ -357,7 +358,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   
 .skills_bottom {
   top: -2px;
-  background: $sectionBackground!important;
+  background: $clearBackground!important;
   overflow:hidden;
   position:relative;
   }
