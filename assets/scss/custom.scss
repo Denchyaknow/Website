@@ -60,9 +60,6 @@ $l_primaryLink: #FFE0B9;
 $l_secondaryLink: #FFDAA9;
 
 //Main Background
-.dark body {
-  background-color: $d_primaryBackground!important;
-}
 body {
   background-color: $l_primaryBackground!important;
 }
@@ -77,16 +74,16 @@ body {
 }
 //Button Background
 .dark .btn-primary {
-  background-color: #252b3275!important;
+  background-color: $d_primaryLink!important;
 }
 .btn-primary {
-  background-color: #252b3275!important;
+  background-color: $l_primaryLink!important;
 }
 .dark .card {
-  background: #1e31436e;
+  background: $d_secondaryBackground;
 }
 .card {
-  background: #17191c;
+  background: $l_secondaryBackground;
 }
 .card-text {
   padding: 0.02rem 0.5em!important;
@@ -95,27 +92,27 @@ body {
 //Dark Mode 
 //Titles
 .dark h1 {
-  color: #7ec8ff!important;
+  color: $d_primaryText!important;
 }
 //Links
 .dark a {
-  color: #7d51ff!important;
+  color: $d_secondaryLink!important;
 }
 //Normal White Text
 .dark p {
-  color: #63c9ff!important;
+  color: $d_secondaryText!important;
 }
 //White Mode
 //Titles
 h1 {
-  color: #7ec8ff!important;
+  color: $l_primaryText!important;
 }
 a {
-  color: #7d51ff!important;
+  color: $l_secondaryLink!important;
   //color: #270856;
 }
 p {
-  color: #63c9ff!important;
+  color: $l_secondaryText!important;
 }
 
 //For video stuff
