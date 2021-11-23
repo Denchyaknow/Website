@@ -31,12 +31,9 @@ advanced:
         A front-end XR Developer
     </span>
     </p>
-    <a class="intro_2">
+    <div class="intro_2">
         {{% cta cta_link="#stats" cta_text="My Stats" %}}
-    </a>
-     <span>
-        {{% cta cta_link="#stats" cta_text="My Stats" %}}
-    </span>
+    </div>
 </div>
 <script>
     //ScrollReveal().reveal('.video_hero', { delay: 500, origin: 'top', reset: true });
