@@ -20,6 +20,7 @@ advanced:
 
 <div class="video_hero">
     <video muted autoplay="" name="media" loop=""><source src="https://thumbs.gfycat.com/ChillyThunderousIberiannase-mobile.mp4" type="video/mp4"></video>
+    <div class="video_cover"></div>
 </div>
 
 <script>
