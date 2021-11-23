@@ -127,6 +127,10 @@ iframe {
     z-index: 0;
     pointer-events: none;
 }
+.video-section {
+  z-index: -20;
+  height: 50vw;
+}
 .video_hero {
   position:absolute; 
   width: 100%;
