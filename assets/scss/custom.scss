@@ -54,7 +54,7 @@ $clearBackground: #00000000;
 $l_primaryText: #74caff;
 $l_secondaryText: #6fd5ff;
 $l_primaryLink: #80FFDB;
-$l_secondaryLink: #48BFE3;
+$l_secondaryLink: #340e5e;
 
 //Main Background
 body {
@@ -88,6 +88,9 @@ h1 {
 a {
   color: $l_primaryLink!important;
   //color: #270856;
+}
+.nav-item a {
+  color: $l_secondaryLink!important;
 }
 p {
   color: $l_secondaryText!important;
