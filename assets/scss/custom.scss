@@ -62,10 +62,14 @@ $l_secondaryLink: #340e5e;
 body {
   background-color: $mainBackground!important;
 }
+//Skills Styling
+.section-subheading {
+  color: $l_primaryText!important;
+}
+
 //Project Card Styling
 
 //Button Background of active filter
-
 .btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
   background-color: $buttonBackgroundActive!important;
 }
@@ -339,6 +343,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   
 
 //Skills section
+
 .skills_body{
   background: $sectionBackground!important;
 }

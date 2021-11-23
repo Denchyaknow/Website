@@ -37,7 +37,7 @@ advanced:
 </div>
 [Go to stats]](#stats)
 <script>
-    ScrollReveal().reveal('.video_hero', { delay: 500, origin: 'top', reset: true });
+    //ScrollReveal().reveal('.video_hero', { delay: 500, origin: 'top', reset: true });
     ScrollReveal().reveal('.intro_0', { delay: 750, origin: 'bottom', reset: true });
     ScrollReveal().reveal('.intro_1', { delay: 1000, origin: 'bottom', reset: true });
     ScrollReveal().reveal('.intro_2', { delay: 1250, origin: 'bottom', reset: true });
