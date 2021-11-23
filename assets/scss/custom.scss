@@ -114,6 +114,16 @@ iframe {
     z-index: 0;
     pointer-events: none;
 }
+.video_hero {
+  position:relative; 
+  width: 100%;
+  video{
+    max-height: 100%!important;
+    max-width: 100%!important;
+    width: 100%;
+    height: auto;
+  }
+}
 .video_thing {
   position:relative; 
   width: 100%;
