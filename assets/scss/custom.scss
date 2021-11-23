@@ -51,6 +51,7 @@ $buttonBackground: #341c55;
 $buttonBackgroundActive: #315684;
 $sectionBackground: #442b48;
 $clearBackground: #00000000;
+$coverBackground: #000000b0;
 $iconColor: #ffe64a;
 $l_primaryText: #74caff;
 $l_secondaryText: #6fd5ff;
@@ -159,7 +160,7 @@ iframe {
   top: -20vw;
   left: 0;
   height: 75vw;
-  background-color: #0000005a;
+  background-color: $coverBackground;
   z-index: 50;
 }
 
