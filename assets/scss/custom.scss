@@ -89,6 +89,9 @@ a {
   color: $l_primaryLink!important;
   //color: #270856;
 }
+.navbar-brand a {
+  color: $l_secondaryLink!important;
+}
 .nav-item a {
   color: $l_secondaryLink!important;
 }
