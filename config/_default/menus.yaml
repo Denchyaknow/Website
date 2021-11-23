@@ -3,20 +3,20 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+#  - name: Skills
+#    url: '/course/example/'
+#    weight: 10
+#    parent: courses
 main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Courses
-    url: '/course'
+  - name: Stats
+    url: '/stats'
     weight: 20
     identifier: courses
-  - name: Data science
-    url: '/course/example/'
-    weight: 10
-    parent: courses
-  - name: Blog
-    url: '/post'
+  - name: Skills
+    url: '/skills'
     weight: 30
   - name: Contact
     url: '/contact'

@@ -31,11 +31,11 @@ advanced:
     </p>
     <a class="intro_2">
         <span>
-        [Go to stats]](#stats)
+        {{% cta cta_link="#stats" cta_text="Contact via Discord" %}}
         </span>
     </a>
 </div>
-
+[Go to stats]](#stats)
 <script>
     ScrollReveal().reveal('.video_hero', { delay: 500, origin: 'top', reset: true });
     ScrollReveal().reveal('.intro_0', { delay: 750, origin: 'bottom', reset: true });
